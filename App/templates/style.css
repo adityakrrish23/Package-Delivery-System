@@ -1,0 +1,16 @@
+html{
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+map-canvas{
+    width:190vh; 
+    height:60vh; 
+    align-items: center;
+}
