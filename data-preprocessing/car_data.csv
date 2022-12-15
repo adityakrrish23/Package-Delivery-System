@@ -1,0 +1,990 @@
+,Model,Maker,Style,Seats,Fuel,Boot Space,Fuel Tank Capacity
+0,Nano GenxXt,Tata,Hatchback,4.0,Petrol,110.0,24.0
+1,Nano GenxXe,Tata,Hatchback,4.0,Petrol,110.0,24.0
+2,Nano GenxEmax Xm,Tata,Hatchback,4.0,CNG,110.0,15.0
+3,Nano GenxXta,Tata,Hatchback,4.0,Petrol,94.0,24.0
+4,Nano GenxXm,Tata,Hatchback,4.0,Petrol,110.0,24.0
+5,Nano GenxXma,Tata,Hatchback,4.0,Petrol,94.0,24.0
+6,Redi-GoD,Datsun,Hatchback,5.0,Petrol,222.0,28.0
+7,Redi-GoT,Datsun,Hatchback,5.0,Petrol,222.0,28.0
+8,Redi-GoA,Datsun,Hatchback,5.0,Petrol,222.0,28.0
+9,Redi-GoS,Datsun,Hatchback,5.0,Petrol,222.0,28.0
+10,Redi-Go1.0 S,Datsun,Hatchback,5.0,Petrol,222.0,28.0
+11,Redi-Go1.0 S Amt,Datsun,Hatchback,5.0,Petrol,222.0,28.0
+12,KwidRxe 0.8,Renault,Hatchback,5.0,Petrol,300.0,28.0
+13,KwidStd 0.8,Renault,Hatchback,5.0,Petrol,300.0,28.0
+14,KwidRxl 0.8,Renault,Hatchback,5.0,Petrol,300.0,28.0
+15,KwidRxt 0.8,Renault,Hatchback,5.0,Petrol,300.0,28.0
+16,KwidRxt 1.0,Renault,Hatchback,5.0,Petrol,300.0,28.0
+17,KwidClimber 1.0 Mt,Renault,Hatchback,5.0,Petrol,300.0,28.0
+18,KwidRxt Amt 1.0,Renault,Hatchback,5.0,Petrol,300.0,28.0
+19,KwidClimber Amt 1.0,Renault,Hatchback,5.0,Petrol,300.0,28.0
+20,KwidRxt (O) 1.0,Renault,Hatchback,5.0,Petrol,300.0,28.0
+21,KwidRxt (O) Amt 1.0,Renault,Hatchback,5.0,Petrol,300.0,28.0
+22,KwidClimber (O) Mt 1.0,Renault,Hatchback,5.0,Petrol,300.0,28.0
+23,KwidClimber (O) Amt 1.0,Renault,Hatchback,5.0,Petrol,300.0,28.0
+24,Eeco5 Str,Maruti Suzuki,MPV,5.0,Petrol,400.0,40.0
+25,Eeco7 Str,Maruti Suzuki,MPV,7.0,Petrol,250.0,40.0
+26,Eeco5 Str With Ac+Htr,Maruti Suzuki,MPV,5.0,Petrol,400.0,40.0
+27,Eeco5 Str With Ac+Htr Cng,Maruti Suzuki,MPV,5.0,CNG,400.0,40.0
+28,Eeco5 Str With Htr Cng,Maruti Suzuki,MPV,5.0,CNG,400.0,40.0
+29,Alto K10Lxi,Maruti Suzuki,Hatchback,5.0,Petrol,177.0,35.0
+30,Alto K10Vxi,Maruti Suzuki,Hatchback,5.0,Petrol,177.0,35.0
+31,Alto K10Lx,Maruti Suzuki,Hatchback,5.0,Petrol,177.0,35.0
+32,Alto K10Vxi (O),Maruti Suzuki,Hatchback,5.0,Petrol,177.0,35.0
+33,Alto K10Lxi Cng (O),Maruti Suzuki,Hatchback,5.0,CNG,177.0,35.0
+34,Alto K10Vxi Amt (O),Maruti Suzuki,Hatchback,5.0,Petrol,177.0,35.0
+35,GoD,Datsun,Hatchback,5.0,Petrol,265.0,35.0
+36,GoT,Datsun,Hatchback,5.0,Petrol,265.0,35.0
+37,GoT (O),Datsun,Hatchback,5.0,Petrol,265.0,35.0
+38,GoA (O),Datsun,Hatchback,5.0,Petrol,265.0,35.0
+39,GoA,Datsun,Hatchback,5.0,Petrol,265.0,35.0
+40,GoT Vdc,Datsun,Hatchback,5.0,Petrol,265.0,35.0
+41,GoT (O) Vdc,Datsun,Hatchback,5.0,Petrol,265.0,35.0
+42,GoT Cvt,Datsun,Hatchback,5.0,Petrol,265.0,35.0
+43,GoT (O) Cvt,Datsun,Hatchback,5.0,Petrol,265.0,35.0
+44,Celerio TourH2,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+45,Celerio TourH2 Cng,Maruti Suzuki,Hatchback,5.0,CNG,235.0,60.0
+46,TiagoRevotron Xt,Tata,Hatchback,5.0,Petrol,242.0,35.0
+47,TiagoRevotron Xz,Tata,Hatchback,5.0,Petrol,242.0,35.0
+48,TiagoRevotron Xz Plus,Tata,Hatchback,5.0,Petrol,242.0,35.0
+49,TiagoRevotron Xz Plus Dual Tone,Tata,Hatchback,5.0,Petrol,242.0,35.0
+50,TiagoRevotron Xza,Tata,Hatchback,5.0,Petrol,240.0,35.0
+51,TiagoRevotron Xza Plus,Tata,Hatchback,5.0,Petrol,240.0,35.0
+52,TiagoRevotron Xza Plus Dual Tone,Tata,Hatchback,5.0,Petrol,240.0,35.0
+53,Celerio XVxi (O),Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+54,Celerio XVxi,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+55,Celerio XVxi Amt,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+56,Celerio XVxi Amt (O),Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+57,Celerio XZxi,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+58,Celerio XZxi (O),Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+59,Celerio XZxi Amt,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+60,Celerio XZxi Amt (O),Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+61,IgnisAlpha 1.2 Amt,Maruti Suzuki,Hatchback,5.0,Petrol,260.0,32.0
+62,IgnisAlpha 1.2 Mt,Maruti Suzuki,Hatchback,5.0,Petrol,260.0,32.0
+63,IgnisDelta 1.2 Amt,Maruti Suzuki,Hatchback,5.0,Petrol,260.0,32.0
+64,IgnisDelta 1.2 Mt,Maruti Suzuki,Hatchback,5.0,Petrol,260.0,32.0
+65,IgnisSigma 1.2 Mt,Maruti Suzuki,Hatchback,5.0,Petrol,260.0,32.0
+66,IgnisZeta 1.2 Amt,Maruti Suzuki,Hatchback,5.0,Petrol,260.0,32.0
+67,IgnisZeta 1.2 Mt,Maruti Suzuki,Hatchback,5.0,Petrol,260.0,32.0
+68,TriberRxe,Renault,MUV,7.0,Petrol,625.0,40.0
+69,TriberRxl,Renault,MUV,7.0,Petrol,625.0,40.0
+70,TriberRxt,Renault,MUV,7.0,Petrol,625.0,40.0
+71,TriberRxz,Renault,MUV,7.0,Petrol,625.0,40.0
+72,RioGx,Premier,SUV,5.0,Petrol,454.0,46.0
+73,RioEx,Premier,SUV,5.0,Diesel,454.0,46.0
+74,RioGlx,Premier,SUV,5.0,Petrol,454.0,46.0
+75,RioDx,Premier,SUV,5.0,Diesel,454.0,46.0
+76,RioLx,Premier,SUV,5.0,Diesel,454.0,46.0
+77,RioCrdi4,Premier,SUV,5.0,Diesel,454.0,46.0
+78,Etios LivaG,Toyota,Hatchback,5.0,Petrol,251.0,45.0
+79,Etios LivaV,Toyota,Hatchback,5.0,Petrol,251.0,45.0
+80,Etios LivaGd,Toyota,Hatchback,5.0,Diesel,251.0,45.0
+81,Etios LivaVx,Toyota,Hatchback,5.0,Petrol,251.0,45.0
+82,Etios LivaVxd,Toyota,Hatchback,5.0,Diesel,251.0,45.0
+83,Etios LivaVd,Toyota,Hatchback,5.0,Diesel,251.0,45.0
+84,Etios LivaDual Tone V,Toyota,Hatchback,5.0,Petrol,251.0,45.0
+85,Etios LivaDual Tone Vd,Toyota,Hatchback,5.0,Diesel,251.0,45.0
+86,Etios LivaDual Tone Vx,Toyota,Hatchback,5.0,Petrol,251.0,45.0
+87,Etios LivaDual Tone Vxd,Toyota,Hatchback,5.0,Diesel,251.0,45.0
+88,Etios LivaGx,Toyota,Hatchback,5.0,Petrol,251.0,45.0
+89,Etios LivaGxd,Toyota,Hatchback,5.0,Diesel,251.0,45.0
+90,Etios LivaVx Dual Tone Limited Edition,Toyota,Hatchback,5.0,Petrol,251.0,45.0
+91,Etios LivaVxd Dual Tone Limited Edition,Toyota,Hatchback,5.0,Diesel,251.0,45.0
+92,Micra ActiveXl,Nissan,Hatchback,5.0,Petrol,251.0,41.0
+93,Micra ActiveXv,Nissan,Hatchback,5.0,Petrol,251.0,41.0
+94,Micra ActiveXl (O),Nissan,Hatchback,5.0,Petrol,251.0,41.0
+95,BoltXt Diesel,Tata,Hatchback,5.0,Diesel,210.0,44.0
+96,BoltXe Diesel,Tata,Hatchback,5.0,Diesel,210.0,44.0
+97,BoltXm Diesel,Tata,Hatchback,5.0,Diesel,210.0,44.0
+98,BoltXms Diesel,Tata,Hatchback,5.0,Diesel,210.0,44.0
+99,BoltXt Petrol,Tata,Hatchback,5.0,Petrol,210.0,44.0
+100,BoltXe Petrol,Tata,Hatchback,5.0,Petrol,210.0,44.0
+101,BoltXm Petrol,Tata,Hatchback,5.0,Petrol,210.0,44.0
+102,BoltXms Petrol,Tata,Hatchback,5.0,Petrol,210.0,44.0
+103,Xcent PrimeCng T + (Cng +,Hyundai,Sedan,5.0,CNG + Petrol,407.0,43.0
+104,Xcent PrimeT,Hyundai,Sedan,5.0,Petrol,407.0,43.0
+105,Xcent PrimeT+,Hyundai,Sedan,5.0,Petrol,407.0,43.0
+106,Xcent PrimeCng T (Cng +,Hyundai,Sedan,5.0,CNG + Petrol,407.0,43.0
+107,Xcent PrimeT+ Crdi,Hyundai,Sedan,5.0,Diesel,407.0,43.0
+108,Xcent PrimeT Crdi,Hyundai,Sedan,5.0,Diesel,407.0,43.0
+109,Dzire TourLdi,Maruti Suzuki,Sedan,5.0,Diesel,320.0,42.0
+110,Dzire TourLxi,Maruti Suzuki,Sedan,5.0,Petrol,316.0,42.0
+111,Dzire TourLxi Cng,Maruti Suzuki,Sedan,5.0,CNG,316.0,42.0
+112,Elite I20Era 1.2,Hyundai,Hatchback,5.0,Petrol,285.0,45.0
+113,Elite I20Era 1.4 Crdi,Hyundai,Hatchback,5.0,Diesel,285.0,45.0
+114,Elite I20Magna Plus,Hyundai,Hatchback,5.0,Petrol,285.0,45.0
+115,Elite I20Magna Plus Crdi,Hyundai,Hatchback,5.0,Diesel,285.0,45.0
+116,Elite I20Sportz Plus,Hyundai,Hatchback,5.0,Petrol,285.0,45.0
+117,Elite I20Sportz Plus Crdi Dual Tone,Hyundai,Hatchback,5.0,Diesel,285.0,45.0
+118,Elite I20Asta (O) 1.2,Hyundai,Hatchback,5.0,Petrol,285.0,45.0
+119,Elite I20Asta (O) Crdi,Hyundai,Hatchback,5.0,Diesel,285.0,45.0
+120,Elite I20Asta (O) Cvt,Hyundai,Hatchback,5.0,Petrol,285.0,45.0
+121,Elite I20Sportz Plus Dual Tone,Hyundai,Hatchback,5.0,Petrol,285.0,45.0
+122,Elite I20Sportz Plus Cvt,Hyundai,Hatchback,5.0,Petrol,285.0,45.0
+123,Elite I20Sportz Plus Crdi,Hyundai,Hatchback,5.0,Diesel,285.0,45.0
+124,PoloTrendline 1.0L (P),Volkswagen,Hatchback,5.0,Petrol,280.0,45.0
+125,PoloComfortline 1.0 (P),Volkswagen,Hatchback,5.0,Petrol,280.0,45.0
+126,PoloHighline Plus 1.0 (P),Volkswagen,Hatchback,5.0,Petrol,280.0,45.0
+127,PoloTrendline 1.5L (D),Volkswagen,Hatchback,5.0,Diesel,280.0,45.0
+128,PoloComfortline 1.5 (D),Volkswagen,Hatchback,5.0,Diesel,280.0,45.0
+129,PoloHighline Plus 1.5 (D),Volkswagen,Hatchback,5.0,Diesel,280.0,45.0
+130,PoloGt Tsi,Volkswagen,Hatchback,5.0,Petrol,280.0,45.0
+131,PoloGt Tdi,Volkswagen,Hatchback,5.0,Diesel,250.0,45.0
+132,DzireLxi,Maruti Suzuki,Sedan,5.0,Petrol,378.0,37.0
+133,DzireVxi,Maruti Suzuki,Sedan,5.0,Petrol,378.0,37.0
+134,DzireLdi,Maruti Suzuki,Sedan,5.0,Diesel,378.0,37.0
+135,DzireZxi,Maruti Suzuki,Sedan,5.0,Petrol,378.0,37.0
+136,DzireVdi,Maruti Suzuki,Sedan,5.0,Diesel,378.0,37.0
+137,DzireVxi Amt,Maruti Suzuki,Sedan,5.0,Petrol,378.0,37.0
+138,DzireZdi Amt,Maruti Suzuki,Sedan,5.0,Diesel,378.0,37.0
+139,DzireZdi,Maruti Suzuki,Sedan,5.0,Diesel,378.0,37.0
+140,DzireZxi Plus,Maruti Suzuki,Sedan,5.0,Petrol,378.0,37.0
+141,DzireZxi At,Maruti Suzuki,Sedan,5.0,Petrol,378.0,37.0
+142,DzireZxi Plus Amt,Maruti Suzuki,Sedan,5.0,Petrol,378.0,37.0
+143,DzireZdi Plus,Maruti Suzuki,Sedan,5.0,Diesel,378.0,37.0
+144,DzireVdi Amt,Maruti Suzuki,Sedan,5.0,Diesel,378.0,37.0
+145,DzireZdi Plus Amt,Maruti Suzuki,Sedan,5.0,Diesel,378.0,37.0
+146,Freestyle1.5L Tdci Ambiente,Ford,Crossover,5.0,Diesel,257.0,40.0
+147,Freestyle1.5L Tdci Titanium,Ford,Hatchback,5.0,Diesel,257.0,40.0
+148,Freestyle1.5L Tdci Titanium Plus,Ford,Hatchback,5.0,Diesel,257.0,40.0
+149,Freestyle1.2L Ti-Vct Ambiente,Ford,Hatchback,5.0,Petrol,257.0,42.0
+150,Freestyle1.2L Ti-Vct Titanium,Ford,Hatchback,5.0,Petrol,257.0,42.0
+151,Freestyle1.2L Ti-Vct Titanium Plus,Ford,Hatchback,5.0,Petrol,257.0,42.0
+152,Freestyle1.2L Ti-Vct Trend Plus,Ford,Crossover,5.0,Petrol,257.0,42.0
+153,Freestyle1.5L Tdci Trend Plus,Ford,Crossover,5.0,Diesel,257.0,42.0
+154,AmeoTrendline 1.5L Tdi,Volkswagen,Sedan,5.0,Diesel,330.0,45.0
+155,AmeoComfortline 1.5L Tdi,Volkswagen,Sedan,5.0,Diesel,330.0,45.0
+156,AmeoHighline Plus 1.5L Tdi Dsg,Volkswagen,Sedan,5.0,Diesel,330.0,45.0
+157,AmeoHighline Plus 1.5L Tdi,Volkswagen,Sedan,5.0,Diesel,330.0,45.0
+158,AmeoTrendline 1.0L,Volkswagen,Sedan,5.0,Petrol,330.0,45.0
+159,AmeoComfortline 1.0L,Volkswagen,Sedan,5.0,Petrol,330.0,45.0
+160,AmeoHighline Plus 1.0L,Volkswagen,Sedan,5.0,Petrol,330.0,45.0
+161,AmeoGt Line Tdi Dsg,Volkswagen,Sedan,5.0,Diesel,330.0,45.0
+162,Platinum EtiosG,Toyota,Sedan,5.0,Petrol,592.0,45.0
+163,Platinum EtiosV,Toyota,Sedan,5.0,Petrol,592.0,45.0
+164,Platinum EtiosGd,Toyota,Sedan,5.0,Diesel,592.0,45.0
+165,Platinum EtiosVd,Toyota,Sedan,5.0,Diesel,592.0,45.0
+166,Platinum EtiosVxd,Toyota,Sedan,5.0,Diesel,592.0,45.0
+167,Platinum EtiosVx,Toyota,Sedan,5.0,Petrol,592.0,45.0
+168,Platinum EtiosGx,Toyota,Sedan,5.0,Petrol,592.0,45.0
+169,Platinum EtiosGxd,Toyota,Sedan,5.0,Diesel,592.0,45.0
+170,Platinum EtiosVxd Limited Edition,Toyota,Sedan,5.0,Diesel,592.0,45.0
+171,Platinum EtiosVx Limited Edition,Toyota,Sedan,5.0,Petrol,592.0,45.0
+172,Etios CrossV,Toyota,Hatchback,5.0,Petrol,251.0,45.0
+173,Etios CrossG,Toyota,Hatchback,5.0,Petrol,251.0,45.0
+174,Etios CrossVd,Toyota,Hatchback,5.0,Diesel,251.0,45.0
+175,Etios CrossGd,Toyota,Hatchback,5.0,Diesel,251.0,45.0
+176,Etios Cross1.2 X Edition,Toyota,Hatchback,5.0,Petrol,251.0,45.0
+177,Etios Cross1.4 X Edition,Toyota,Hatchback,5.0,Diesel,251.0,45.0
+178,Verito VibeD2,Mahindra,Hatchback,5.0,Diesel,330.0,50.0
+179,Verito VibeD4,Mahindra,Hatchback,5.0,Diesel,330.0,50.0
+180,Verito VibeD6,Mahindra,Hatchback,5.0,Diesel,330.0,50.0
+181,GlanzaG Hybrid,Toyota,Hatchback,5.0,Petrol,339.0,37.0
+182,GlanzaV,Toyota,Hatchback,5.0,Petrol,339.0,37.0
+183,GlanzaG Cvt,Toyota,Hatchback,5.0,Petrol,339.0,37.0
+184,GlanzaV Cvt,Toyota,Hatchback,5.0,Petrol,339.0,37.0
+185,GlanzaG Mt,Toyota,Hatchback,5.0,Petrol,339.0,37.0
+186,AvventuraMultijet Dynamic,Fiat,Crossover,5.0,Diesel,280.0,45.0
+187,AvventuraMultijet Active,Fiat,Crossover,5.0,Diesel,280.0,45.0
+188,AvventuraMultijet Emotion,Fiat,Crossover,5.0,Diesel,280.0,45.0
+189,JazzV Petrol,Honda,Hatchback,5.0,Petrol,354.0,40.0
+190,JazzVx Cvt,Honda,Hatchback,5.0,Petrol,354.0,40.0
+191,JazzVx Petrol,Honda,Hatchback,5.0,Petrol,354.0,40.0
+192,JazzV Cvt,Honda,Hatchback,5.0,Petrol,354.0,40.0
+193,JazzS Diesel,Honda,Hatchback,5.0,Diesel,354.0,40.0
+194,JazzV Diesel,Honda,Hatchback,5.0,Diesel,354.0,40.0
+195,JazzVx Diesel,Honda,Hatchback,5.0,Diesel,354.0,40.0
+196,JazzExclusive Edition Cvt,Honda,Hatchback,5.0,Petrol,354.0,40.0
+197,Bolero Power PlusZlx,Mahindra,SUV,7.0,Diesel,1702.0,60.0
+198,Vitara BrezzaLdi,Maruti Suzuki,SUV,5.0,Diesel,328.0,48.0
+199,Vitara BrezzaVdi,Maruti Suzuki,SUV,5.0,Diesel,328.0,48.0
+200,Vitara BrezzaZdi,Maruti Suzuki,SUV,5.0,Diesel,328.0,48.0
+201,Vitara BrezzaZdi+,Maruti Suzuki,SUV,5.0,Diesel,328.0,48.0
+202,Vitara BrezzaZdi+ Dual Tone,Maruti Suzuki,SUV,5.0,Diesel,328.0,48.0
+203,Vitara BrezzaZdi+ Ags,Maruti Suzuki,SUV,5.0,Diesel,328.0,48.0
+204,Vitara BrezzaVdi Ags,Maruti Suzuki,SUV,5.0,Diesel,328.0,48.0
+205,Vitara BrezzaZdi Ags,Maruti Suzuki,SUV,5.0,Diesel,328.0,48.0
+206,Vitara BrezzaZdi+ Dual Tone Ags,Maruti Suzuki,SUV,5.0,Diesel,328.0,48.0
+207,I20 Active1.2 S,Hyundai,Hatchback,5.0,Petrol,285.0,40.0
+208,I20 Active1.2 Sx,Hyundai,Hatchback,5.0,Petrol,285.0,40.0
+209,I20 Active1.2 Sx Dual Tone,Hyundai,Hatchback,5.0,Petrol,285.0,40.0
+210,I20 Active1.4 Sx,Hyundai,Hatchback,5.0,Diesel,285.0,40.0
+211,Ecosport1.5L Ti-Vct Ambiente,Ford,SUV,5.0,Petrol,352.0,52.0
+212,Ecosport1.5L Ti-Vct Trend,Ford,SUV,5.0,Petrol,352.0,52.0
+213,Ecosport1.5L Ti-Vct Titanium,Ford,SUV,5.0,Petrol,352.0,52.0
+214,Ecosport1.5L Ti-Vct Titanium Plus At,Ford,SUV,5.0,Petrol,352.0,52.0
+215,Ecosport1.5L Tdci Ambiente,Ford,SUV,5.0,Diesel,352.0,52.0
+216,Ecosport1.5L Tdci Trend,Ford,SUV,5.0,Diesel,352.0,52.0
+217,Ecosport1.5L Tdci Titanium,Ford,SUV,5.0,Diesel,352.0,52.0
+218,Ecosport1.5L Tdci Titanium Plus,Ford,SUV,5.0,Diesel,352.0,52.0
+219,Ecosport1.5L Ti-Vct Titanium Plus,Ford,SUV,5.0,Petrol,352.0,52.0
+220,Ecosport1.5L Tdci Titanium S,Ford,SUV,5.0,Diesel,352.0,52.0
+221,Ecosport1.5L Ti-Vct Thunder Edition,Ford,SUV,5.0,Petrol,352.0,52.0
+222,Ecosport1.5L Tdci Thunder Edition,Ford,SUV,5.0,Diesel,352.0,52.0
+223,DusterRxe Petrol,Renault,SUV,5.0,Petrol,475.0,50.0
+224,DusterRxs Petrol,Renault,SUV,5.0,Petrol,475.0,50.0
+225,DusterRxs (Opt) Cvt,Renault,SUV,5.0,Petrol,475.0,50.0
+226,Duster85 Ps Rxe Mt Diesel,Renault,SUV,5.0,Diesel,475.0,50.0
+227,Duster85 Ps Rxs Mt Diesel,Renault,SUV,5.0,Diesel,475.0,50.0
+228,Duster110 Ps Rxs Mt Diesel,Renault,SUV,5.0,Diesel,475.0,50.0
+229,Duster110 Ps Rxz Mt Diesel,Renault,SUV,5.0,Diesel,475.0,50.0
+230,Duster110 Ps Rxz Amt Diesel,Renault,SUV,5.0,Diesel,475.0,50.0
+231,Duster110 Ps Rxs Awd (Opt) Diesel,Renault,SUV,5.0,Diesel,475.0,50.0
+232,Verna1.6 Vtvt Sx,Hyundai,Sedan,5.0,Petrol,465.0,45.0
+233,Verna1.6 Crdi Sx,Hyundai,Sedan,5.0,Diesel,465.0,45.0
+234,Verna1.6 Crdi Sx (O),Hyundai,Sedan,5.0,Diesel,465.0,45.0
+235,Verna1.6 Vtvt Sx (O),Hyundai,Sedan,5.0,Petrol,465.0,45.0
+236,Verna1.6 Crdi Sx Plus At,Hyundai,Sedan,5.0,Diesel,465.0,45.0
+237,Verna1.6 Vtvt Sx(O) At,Hyundai,Sedan,5.0,Petrol,465.0,45.0
+238,Verna1.4 Vtvt Ex,Hyundai,Sedan,5.0,Petrol,465.0,45.0
+239,Verna1.4 Vtvt E,Hyundai,Sedan,5.0,Petrol,465.0,45.0
+240,Verna1.6 Vtvt Sx (O) Anniversary Edition,Hyundai,Sedan,5.0,Petrol,465.0,45.0
+241,Verna1.6 Vtvt Sx Plus At,Hyundai,Sedan,5.0,Petrol,465.0,45.0
+242,Verna1.6 Crdi Sx(O) At,Hyundai,Sedan,5.0,Diesel,465.0,45.0
+243,Verna1.4 Crdi E,Hyundai,Sedan,5.0,Diesel,465.0,45.0
+244,Verna1.4 Crdi Ex,Hyundai,Sedan,5.0,Diesel,465.0,45.0
+245,Xuv3001.2 W4,Mahindra,SUV,5.0,Petrol,259.0,42.0
+246,Xuv3001.2 W6,Mahindra,SUV,5.0,Petrol,259.0,42.0
+247,Xuv3001.2 W8,Mahindra,SUV,5.0,Petrol,259.0,42.0
+248,Xuv3001.2 W8(O),Mahindra,SUV,5.0,Petrol,259.0,42.0
+249,Xuv3001.5 W4,Mahindra,SUV,5.0,Diesel,259.0,42.0
+250,Xuv3001.5 W6,Mahindra,SUV,5.0,Diesel,259.0,42.0
+251,Xuv3001.5 W8,Mahindra,SUV,5.0,Diesel,259.0,42.0
+252,Xuv3001.5 W8 (O),Mahindra,SUV,5.0,Diesel,259.0,42.0
+253,Xuv3001.5 W8 Amt,Mahindra,SUV,5.0,Diesel,259.0,42.0
+254,Xuv3001.5 W8 (O) Amt,Mahindra,SUV,5.0,Diesel,259.0,42.0
+255,Xuv3001.5 W6 Amt,Mahindra,SUV,5.0,Diesel,259.0,42.0
+256,Lodgy85 Ps Std,Renault,MUV,8.0,Diesel,207.0,50.0
+257,Lodgy85 Ps Rxe 8 Seater,Renault,MUV,8.0,Diesel,207.0,50.0
+258,LodgyStepway Rxz 110Ps 7-Seater,Renault,MUV,7.0,Diesel,207.0,50.0
+259,LodgyStepway Rxl 85Ps 8-Seater,Renault,MUV,8.0,Diesel,207.0,50.0
+260,LodgyStepway Rxz 85Ps 8-Seater,Renault,MUV,8.0,Diesel,207.0,50.0
+261,Lodgy85 Ps Rxe 7 Seater,Renault,MUV,7.0,Diesel,207.0,50.0
+262,VentoTrendline 1.6 (P),Volkswagen,Sedan,5.0,Petrol,494.0,55.0
+263,VentoHighline 1.6 (P),Volkswagen,Sedan,5.0,Petrol,494.0,55.0
+264,VentoComfortline 1.6 (P),Volkswagen,Sedan,5.0,Petrol,494.0,55.0
+265,VentoHighline 1.2 (P) Dsg,Volkswagen,Sedan,5.0,Petrol,494.0,55.0
+266,VentoHighline Plus 1.2 (P) Dsg,Volkswagen,Sedan,5.0,Petrol,494.0,55.0
+267,VentoTrendline 1.5 (D),Volkswagen,Sedan,5.0,Diesel,494.0,55.0
+268,VentoComfortline 1.5 (D),Volkswagen,Sedan,5.0,Diesel,494.0,55.0
+269,VentoHighline 1.5 (D),Volkswagen,Sedan,5.0,Diesel,494.0,55.0
+270,VentoHighline 1.5 (D) Dsg,Volkswagen,Sedan,5.0,Diesel,494.0,55.0
+271,VentoHighline Plus 1.5 (D) Dsg,Volkswagen,Sedan,5.0,Diesel,494.0,55.0
+272,VentoGt Line (D),Volkswagen,Hatchback,5.0,Diesel,250.0,45.0
+273,VentoGt Line (P) Dsg,Volkswagen,Hatchback,5.0,Petrol,280.0,45.0
+274,Tigor EvXm+,Tata,Sedan,5.0,Electric,255.0,35.0
+275,Tigor EvXt+,Tata,Sedan,5.0,Electric,255.0,35.0
+276,Tigor EvXe+,Tata,Sedan,5.0,Electric,255.0,35.0
+277,BrvE Petrol,Honda,SUV,7.0,Petrol,223.0,42.0
+278,BrvS Petrol,Honda,SUV,7.0,Petrol,223.0,42.0
+279,BrvV Petrol,Honda,SUV,7.0,Petrol,223.0,42.0
+280,BrvVx Petrol,Honda,SUV,7.0,Petrol,223.0,42.0
+281,BrvV Cvt Petrol,Honda,SUV,7.0,Petrol,223.0,42.0
+282,BrvS Diesel,Honda,SUV,7.0,Diesel,223.0,42.0
+283,BrvV Diesel,Honda,SUV,7.0,Diesel,223.0,42.0
+284,BrvVx Diesel,Honda,SUV,7.0,Diesel,223.0,42.0
+285,TharCrde,Mahindra,SUV,6.0,Diesel,600.0,60.0
+286,Thar700 Special Edition,Mahindra,SUV,6.0,Diesel,600.0,60.0
+287,TharCrde Abs,Mahindra,SUV,6.0,Diesel,600.0,60.0
+288,Xl6Zeta Mt,Maruti Suzuki,MPV,6.0,Petrol,209.0,45.0
+289,Xl6Alpha Mt,Maruti Suzuki,MPV,6.0,Petrol,209.0,45.0
+290,Xl6Zeta At,Maruti Suzuki,MPV,6.0,Petrol,209.0,45.0
+291,Xl6Alpha At,Maruti Suzuki,MPV,6.0,Petrol,209.0,45.0
+292,Tuv300 PlusP4,Mahindra,SUV,9.0,Diesel,384.0,60.0
+293,Tuv300 PlusP6,Mahindra,SUV,9.0,Diesel,384.0,60.0
+294,Tuv300 PlusP8,Mahindra,SUV,9.0,Diesel,384.0,60.0
+295,Scorpio4Wd Getaway,Mahindra,SUV,5.0,Diesel,460.0,80.0
+296,Scorpio2Wd Getaway,Mahindra,SUV,5.0,Diesel,460.0,80.0
+297,Monte CarloMonte Carlo 1.5 Tdi At,Skoda,Sedan,5.0,Diesel,460.0,55.0
+298,Monte CarloMonte Carlo 1.6 Mpi At,Skoda,Sedan,5.0,Petrol,460.0,55.0
+299,Monte CarloMonte Carlo 1.5 Tdi Mt,Skoda,Sedan,5.0,Diesel,460.0,55.0
+300,Monte CarloMonte Carlo 1.6 Mpi Mt,Skoda,Sedan,5.0,Petrol,460.0,55.0
+301,Xuv500G At,Mahindra,SUV,7.0,Petrol,96.0,70.0
+302,Xuv500W7 At,Mahindra,SUV,7.0,Diesel,96.0,70.0
+303,Xuv500W9,Mahindra,SUV,7.0,Diesel,96.0,70.0
+304,Xuv500W9 At,Mahindra,SUV,7.0,Diesel,96.0,70.0
+305,Xuv500W11,Mahindra,SUV,7.0,Diesel,96.0,70.0
+306,Xuv500W11 At,Mahindra,SUV,7.0,Diesel,96.0,70.0
+307,Xuv500W11 (O),Mahindra,SUV,7.0,Diesel,96.0,70.0
+308,Xuv500W11 (O) At,Mahindra,SUV,7.0,Diesel,96.0,70.0
+309,Xuv500W11 (O) Awd,Mahindra,SUV,7.0,Diesel,96.0,70.0
+310,Xuv500W11 (O) Awd At,Mahindra,SUV,7.0,Diesel,96.0,70.0
+311,Xuv500W3,Mahindra,SUV,7.0,Diesel,96.0,70.0
+312,HexaXm Plus 4X2,Tata,SUV,7.0,Diesel,128.0,60.0
+313,HexaXt 4X4,Tata,SUV,6.0,Diesel,128.0,60.0
+314,HexaXta 4X2,Tata,SUV,6.0,Diesel,128.0,60.0
+315,HexaXe 4X2,Tata,SUV,7.0,Diesel,128.0,60.0
+316,HexaXm 4X2,Tata,SUV,7.0,Diesel,128.0,60.0
+317,Corolla AltisG Petrol,Toyota,Sedan,5.0,Petrol,470.0,55.0
+318,Corolla AltisG At Petrol,Toyota,Sedan,5.0,Petrol,470.0,55.0
+319,Corolla AltisGl Petrol,Toyota,Sedan,5.0,Petrol,470.0,55.0
+320,Corolla AltisGl Diesel,Toyota,Sedan,5.0,Diesel,470.0,43.0
+321,Corolla AltisG Diesel,Toyota,Sedan,5.0,Diesel,470.0,43.0
+322,Corolla AltisVl At Petrol,Toyota,Sedan,5.0,Petrol,470.0,55.0
+323,Civic1.8 V Cvt,Honda,Sedan,5.0,Petrol,430.0,47.0
+324,Civic1.8 Vx Cvt,Honda,Sedan,5.0,Petrol,430.0,47.0
+325,Civic1.8 Zx Cvt,Honda,Sedan,5.0,Petrol,430.0,47.0
+326,Civic1.6 Vx Mt,Honda,Sedan,5.0,Diesel,430.0,47.0
+327,Civic1.6 Zx Mt,Honda,Sedan,5.0,Diesel,430.0,47.0
+328,SuperbStyle 1.8 Tsi Mt,Skoda,Sedan,5.0,Petrol,625.0,66.0
+329,SuperbStyle 1.8 Tsi At,Skoda,Sedan,5.0,Petrol,625.0,66.0
+330,SuperbL & K 1.8 Tsi At,Skoda,Sedan,5.0,Petrol,625.0,66.0
+331,SuperbL & K 2.0 Tdi At,Skoda,Sedan,5.0,Diesel,625.0,66.0
+332,SuperbStyle 2.0 Tdi At,Skoda,Sedan,5.0,Diesel,625.0,66.0
+333,SuperbCorporate Edition 1.8 Tsi At,Skoda,Sedan,5.0,Petrol,625.0,66.0
+334,SuperbCorporate Edition 2.0 Tdi At,Skoda,Sedan,5.0,Diesel,625.0,66.0
+335,V40Kinetic,Volvo,Hatchback,5.0,Diesel,324.0,60.0
+336,V40R Design,Volvo,Hatchback,5.0,Diesel,324.0,60.0
+337,Fortuner2.8 4X2 At,Toyota,SUV,7.0,Diesel,296.0,80.0
+338,Fortuner2.8 4X2 Mt,Toyota,SUV,7.0,Diesel,296.0,80.0
+339,FortunerTrd Celebratory Edition,Toyota,SUV,7.0,Diesel,296.0,80.0
+340,Endeavour3.2L 4X4 At Titanium Plus,Ford,SUV,7.0,Diesel,430.0,80.0
+341,Endeavour2.2L 4X2 At Titanium Plus,Ford,SUV,7.0,Diesel,430.0,80.0
+342,Endeavour2.2L 4X2 Mt Titanium,Ford,SUV,7.0,Diesel,430.0,80.0
+343,V40 Cross CountryD3,Volvo,Hatchback,5.0,Diesel,324.0,60.0
+344,V40 Cross CountryT4,Volvo,Hatchback,5.0,Petrol,324.0,50.0
+345,Cooper 3 DoorCooper D,Mini,Hatchback,4.0,Diesel,211.0,44.0
+346,Cooper 3 DoorCooper S,Mini,Hatchback,5.0,Petrol,211.0,44.0
+347,Kodiaq Scout2.0 Tdi At,Skoda,SUV,7.0,Diesel,270.0,63.0
+348,CountrymanCooper S,Mini,Hatchback,5.0,Petrol,350.0,47.0
+349,CountrymanCooper Sd,Mini,Hatchback,5.0,Diesel,350.0,47.0
+350,CountrymanCooper S Jcw Inspired,Mini,Hatchback,5.0,Petrol,350.0,47.0
+351,CountrymanBlack Edition,Mini,Hatchback,5.0,Petrol,350.0,47.0
+352,X1Sdrive20D Expedition,Bmw,"Crossover, SUV",5.0,Diesel,420.0,51.0
+353,X1Sdrive20D Xline,Bmw,"SUV, Crossover",5.0,Diesel,420.0,51.0
+354,X1Xdrive20D M Sport,Bmw,"SUV, Crossover",5.0,Diesel,420.0,51.0
+355,X1Sdrive20D M Sport,Bmw,SUV,5.0,Diesel,419.0,61.0
+356,X1Sdrive20I Xline,Bmw,"Crossover, SUV",5.0,Petrol,420.0,51.0
+357,S60Polestar,Volvo,Sedan,5.0,Petrol,380.0,67.0
+358,S60Momentum,Volvo,Sedan,5.0,Diesel,380.0,67.5
+359,3-Series320D Sport,Bmw,Sedan,5.0,Diesel,480.0,40.0
+360,3-Series320D Luxury Line,Bmw,Sedan,5.0,Diesel,480.0,40.0
+361,3-Series330I M Sport,Bmw,Sedan,5.0,Petrol,480.0,59.0
+362,Accord Hybrid2.0 At,Honda,Sedan,5.0,Hybrid,400.0,60.0
+363,S60 Cross CountryD4,Volvo,"Sedan, Crossover",4.0,Diesel,380.0,67.0
+364,Q535 Tdi Premium Plus,Audi,SUV,5.0,Diesel,460.0,64.0
+365,Q535 Tdi Technology,Audi,SUV,5.0,Diesel,460.0,64.0
+366,Q545 Tfsi Premium Plus,Audi,SUV,5.0,Petrol,550.0,70.0
+367,Q545 Tfsi Technology,Audi,SUV,5.0,Petrol,550.0,70.0
+368,5-Series520D Luxury Line,Bmw,Sedan,5.0,Diesel,520.0,70.0
+369,5-Series530D M Sport,Bmw,Sedan,5.0,Diesel,520.0,70.0
+370,5-Series530I M Sport,Bmw,Sedan,5.0,Petrol,520.0,70.0
+371,Nx 300HF-Sport,Lexus,SUV,5.0,Petrol,475.0,56.0
+372,Nx 300HLuxury,Lexus,SUV,5.0,Petrol,475.0,56.0
+373,F-PacePrestige,Jaguar,SUV,5.0,Diesel,650.0,60.0
+374,F-PacePrestige Petrol,Jaguar,SUV,5.0,Petrol,650.0,60.0
+375,6-Series620D Gt Luxury Line,Bmw,Sedan,4.0,Diesel,610.0,66.0
+376,V90 Cross CountryD5 Inscription,Volvo,SUV,5.0,Diesel,530.0,60.0
+377,Montero3.2 At,Mitsubishi,SUV,7.0,Diesel,1050.0,88.0
+378,A5 Cabriolet2.0 Tdi,Audi,Convertible,4.0,Diesel,480.0,58.0
+379,MacanS,Porsche,SUV,5.0,Petrol,500.0,65.0
+380,MacanBase,Porsche,SUV,5.0,Petrol,500.0,65.0
+381,Discovery3.0 Hse Diesel,Land Rover,SUV,7.0,Diesel,258.0,85.0
+382,Discovery3.0 Se Diesel,Land Rover,SUV,7.0,Diesel,258.0,85.0
+383,Discovery3.0 Hse Petrol,Land Rover,SUV,7.0,Petrol,258.0,89.0
+384,Discovery3.0 Se Petrol,Land Rover,SUV,7.0,Petrol,258.0,89.0
+385,Discovery3.0 S Diesel,Land Rover,SUV,7.0,Diesel,258.0,85.0
+386,Discovery3.0 S Petrol,Land Rover,SUV,7.0,Petrol,258.0,89.0
+387,Discovery3.0 Hse Luxury Diesel,Land Rover,SUV,7.0,Diesel,258.0,85.0
+388,Discovery3.0 Hse Luxury Petrol,Land Rover,SUV,7.0,Petrol,258.0,89.0
+389,Xc90D5 Inscription,Volvo,SUV,7.0,Diesel,530.0,68.0
+390,Xc90D5 Momentum,Volvo,SUV,7.0,Diesel,530.0,68.0
+391,Xc90T8 Excellence,Volvo,SUV,4.0,Hybrid,530.0,68.0
+392,Xc90T8 Inscription,Volvo,SUV,7.0,Hybrid,300.0,68.0
+393,Xc90D5 R-Design,Volvo,SUV,7.0,Diesel,530.0,68.0
+394,Range Sport3.0L V6 Se Petrol,Land Rover Rover,SUV,7.0,Petrol,909.0,85.0
+395,Range Sport3.0L V6 Hse Petrol,Land Rover Rover,SUV,7.0,Petrol,909.0,85.0
+396,Range Sport3.0L Tdv6 S Diesel,Land Rover Rover,SUV,5.0,Diesel,1761.0,80.0
+397,Range Sport3.0L Tdv6 Se Diesel,Land Rover Rover,SUV,5.0,Diesel,1761.0,80.0
+398,F-Type5.0 Coupe R,Jaguar,Coupe,2.0,Petrol,200.5,72.0
+399,F-TypeSvr Coupe,Jaguar,Coupe,2.0,Petrol,310.0,70.0
+400,F-TypeSvr Convertible,Jaguar,Convertible,2.0,Petrol,207.0,70.0
+401,F-Type2.0L Coupe,Jaguar,Coupe,2.0,Petrol,310.0,63.0
+402,F-Type2.0L Convertible,Jaguar,Convertible,2.0,Petrol,207.0,63.0
+403,F-Type2.0 Convertible R Dynamic,Jaguar,Convertible,2.0,Petrol,207.0,63.0
+404,F-Type2.0 Coupe R Dynamic,Jaguar,Coupe,2.0,Petrol,310.0,63.0
+405,Xj3.0L,Jaguar,Sedan,5.0,Diesel,520.0,82.0
+406,Xj3.0L Portfolio,Jaguar,Sedan,5.0,Diesel,520.0,83.0
+407,Xj50,Jaguar,Sedan,5.0,Diesel,478.0,82.0
+408,X7Xdrive 40I,Bmw,SUV,7.0,Petrol,326.0,80.0
+409,X7Xdrive30D Dpe Signature,Bmw,SUV,7.0,Diesel,326.0,80.0
+410,CayenneE-Hybrid,Porsche,SUV,5.0,Hybrid,645.0,75.0
+411,CayenneTurbo,Porsche,SUV,5.0,Petrol,745.0,90.0
+412,CayenneBase,Porsche,SUV,5.0,Petrol,770.0,75.0
+413,M4Coupe,Bmw,Coupe,4.0,Petrol,368.0,60.0
+414,Land CruiserVx,Toyota,SUV,7.0,Diesel,621.0,93.0
+415,M5Competition,Bmw,Sedan,4.0,Petrol,530.0,68.0
+416,Rs7Sportback,Audi,"Sedan, Coupe",4.0,Petrol,535.0,75.0
+417,911Carrera S,Porsche,Coupe,4.0,Petrol,132.0,64.0
+418,911Carrera S Cabriolet,Porsche,Convertible,4.0,Petrol,132.0,64.0
+419,Range3.0L V6 Vogue Lwb Petrol,Land Rover Rover,SUV,7.0,Petrol,909.0,85.0
+420,Range5.0L V8 Svautobiography Lwb Petrol,Land Rover Rover,SUV,5.0,Petrol,909.0,65.0
+421,Range3.0L V6 Vogue Se Lwb Petrol,Land Rover Rover,SUV,7.0,Petrol,909.0,85.0
+422,Lc 500HCoupe,Lexus,Coupe,4.0,Hybrid,133.0,82.0
+423,UrusV8,Lamborghini,SUV,5.0,Petrol,616.0,75.0
+424,Continental GtCoupe,Bentley,Coupe,4.0,Petrol,358.0,90.0
+425,PortofinoV8 Convertible,Ferrari,Convertible,2.0,Petrol,240.0,92.0
+426,BentaygaW12,Bentley,SUV,5.0,Petrol,430.0,85.0
+427,BentaygaV8,Bentley,SUV,5.0,Petrol,430.0,85.0
+428,Db 11V12,Aston Martin,Coupe,2.0,Petrol,300.0,80.0
+429,458 SpecialeCoupe,Ferrari,Coupe,2.0,Petrol,230.0,86.0
+430,MulsanneSedan,Bentley,Sedan,4.0,Petrol,443.0,90.0
+431,CelerioLxi,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+432,CelerioVxi,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+433,CelerioVxi At,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+434,CelerioZxi,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+435,CelerioZxi (Opt),Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+436,CelerioVxi Cng Mt,Maruti Suzuki,Hatchback,5.0,CNG,235.0,35.0
+437,CelerioZxi Ags,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+438,CelerioLxi Mt (O),Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+439,CelerioVxi (O) Mt,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+440,CelerioVxi (O) Ags,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+441,CelerioZxi (O) Ags,Maruti Suzuki,Hatchback,5.0,Petrol,235.0,35.0
+442,Grand I10 PrimeEra T Crdi,Hyundai,Hatchback,5.0,Diesel,256.0,43.0
+443,Grand I10 PrimeEra T+ Crdi,Hyundai,Hatchback,5.0,Diesel,256.0,43.0
+444,Grand I10 PrimeEra T Vtvt,Hyundai,Hatchback,5.0,Petrol,256.0,43.0
+445,Grand I10 PrimeEra T+ Vtvt,Hyundai,Hatchback,5.0,Petrol,256.0,43.0
+446,Grand I10 PrimeEra T+ Cng Vtvt,Hyundai,Hatchback,5.0,CNG,256.0,43.0
+447,Grand I10 PrimeEra T Cng Vtvt,Hyundai,Hatchback,5.0,CNG,256.0,43.0
+448,Kuv100 NxtK2 6Str,Mahindra,Hatchback,6.0,Petrol,243.0,35.0
+449,Kuv100 NxtK2+ 6Str,Mahindra,Hatchback,6.0,Petrol,243.0,35.0
+450,Kuv100 NxtK2 D 6Str,Mahindra,Hatchback,6.0,Diesel,243.0,35.0
+451,Kuv100 NxtK2+ D 6Str,Mahindra,Hatchback,6.0,Diesel,243.0,35.0
+452,Kuv100 NxtK4+ D 6Str,Mahindra,Hatchback,6.0,Diesel,243.0,35.0
+453,Kuv100 NxtK4+ 6Str,Mahindra,Hatchback,6.0,Petrol,243.0,35.0
+454,Kuv100 NxtK6+ 6Str,Mahindra,Hatchback,6.0,Petrol,243.0,35.0
+455,Kuv100 NxtK6+ D 6Str,Mahindra,Hatchback,6.0,Diesel,243.0,35.0
+456,Kuv100 NxtK8 6Str,Mahindra,Hatchback,6.0,Petrol,243.0,35.0
+457,Kuv100 NxtK8 D 6Str,Mahindra,Hatchback,6.0,Diesel,243.0,35.0
+458,Kuv100 NxtK8 6 Str Dual Tone,Mahindra,Hatchback,6.0,Petrol,243.0,35.0
+459,Kuv100 NxtK8 D 6 Str Dual Tone,Mahindra,Hatchback,6.0,Diesel,243.0,35.0
+460,Kuv100 NxtK4+ 5Str,Mahindra,Hatchback,5.0,Petrol,243.0,35.0
+461,Kuv100 NxtK6+ 5Str,Mahindra,Hatchback,5.0,Petrol,243.0,35.0
+462,Kuv100 NxtK8 5Str,Mahindra,Hatchback,5.0,Petrol,243.0,35.0
+463,SwiftLxi,Maruti Suzuki,Hatchback,5.0,Petrol,268.0,37.0
+464,SwiftVxi,Maruti Suzuki,Hatchback,5.0,Petrol,268.0,37.0
+465,SwiftVxi Amt,Maruti Suzuki,Hatchback,5.0,Petrol,268.0,37.0
+466,SwiftZxi,Maruti Suzuki,Hatchback,5.0,Petrol,268.0,37.0
+467,SwiftZxi Amt,Maruti Suzuki,Hatchback,5.0,Petrol,268.0,37.0
+468,SwiftZxi Plus,Maruti Suzuki,Hatchback,5.0,Petrol,268.0,37.0
+469,SwiftLdi,Maruti Suzuki,Hatchback,5.0,Diesel,268.0,37.0
+470,SwiftVdi,Maruti Suzuki,Hatchback,5.0,Diesel,268.0,37.0
+471,SwiftVdi Amt,Maruti Suzuki,Hatchback,5.0,Diesel,268.0,37.0
+472,SwiftZdi,Maruti Suzuki,Hatchback,5.0,Diesel,268.0,37.0
+473,SwiftZdi Amt,Maruti Suzuki,Hatchback,5.0,Diesel,268.0,37.0
+474,SwiftZdi Plus,Maruti Suzuki,Hatchback,5.0,Diesel,268.0,37.0
+475,SwiftZxi Plus Amt,Maruti Suzuki,Hatchback,5.0,Petrol,268.0,37.0
+476,SwiftZdi Plus Amt,Maruti Suzuki,Hatchback,5.0,Diesel,268.0,37.0
+477,AltrozXe Petrol,Tata,Hatchback,5.0,Petrol,345.0,37.0
+478,AltrozXm Petrol,Tata,Hatchback,5.0,Petrol,345.0,37.0
+479,AltrozXt Petrol,Tata,Hatchback,5.0,Petrol,345.0,37.0
+480,AltrozXz Petrol,Tata,Hatchback,5.0,Petrol,345.0,37.0
+481,AltrozXz (O) Petrol,Tata,Hatchback,5.0,Petrol,345.0,37.0
+482,AltrozXe Diesel,Tata,Hatchback,5.0,Diesel,345.0,37.0
+483,AltrozXm Diesel,Tata,Hatchback,5.0,Diesel,345.0,37.0
+484,AltrozXt Diesel,Tata,Hatchback,5.0,Diesel,345.0,37.0
+485,AltrozXz Diesel,Tata,Hatchback,5.0,Diesel,345.0,37.0
+486,AltrozXz (O) Diesel,Tata,Hatchback,5.0,Diesel,345.0,37.0
+487,TigorRevotron Xe,Tata,Sedan,5.0,Petrol,419.0,35.0
+488,TigorRevotron Xm,Tata,Sedan,5.0,Petrol,419.0,35.0
+489,TigorRevotron Xz,Tata,Sedan,5.0,Petrol,419.0,35.0
+490,TigorRevotron Xz Plus,Tata,Sedan,5.0,Petrol,419.0,35.0
+491,TigorRevotron Xma,Tata,Sedan,5.0,Petrol,419.0,35.0
+492,TigorRevotron Xza Plus,Tata,Sedan,5.0,Petrol,419.0,35.0
+493,ZestXe Petrol,Tata,Sedan,5.0,Petrol,390.0,44.0
+494,ZestXe Diesel,Tata,Sedan,5.0,Diesel,390.0,44.0
+495,ZestXm Petrol,Tata,Sedan,5.0,Petrol,390.0,44.0
+496,ZestXms Petrol,Tata,Sedan,5.0,Petrol,390.0,44.0
+497,ZestXt Petrol,Tata,Sedan,5.0,Petrol,390.0,44.0
+498,ZestXm Diesel,Tata,Sedan,5.0,Diesel,390.0,44.0
+499,ZestXms Diesel,Tata,Sedan,5.0,Diesel,390.0,44.0
+500,ZestXt Diesel,Tata,Sedan,5.0,Diesel,390.0,44.0
+501,ZestXma Diesel,Tata,Sedan,5.0,Diesel,390.0,44.0
+502,ZestXta Diesel,Tata,Sedan,5.0,Diesel,390.0,44.0
+503,ZestZest Premio Edition,Tata,Sedan,5.0,Diesel,390.0,44.0
+504,AmazeS Cvt Petrol,Honda,Sedan,5.0,Petrol,420.0,35.0
+505,AmazeE Mt Diesel,Honda,Sedan,5.0,Diesel,420.0,35.0
+506,AmazeE Mt Petrol,Honda,Sedan,5.0,Petrol,420.0,35.0
+507,AmazeS Cvt Diesel,Honda,Sedan,5.0,Diesel,420.0,35.0
+508,AmazeV Cvt Petrol,Honda,Sedan,5.0,Petrol,420.0,35.0
+509,AmazeV Cvt Diesel,Honda,Sedan,5.0,Diesel,420.0,35.0
+510,AmazeS Mt Diesel,Honda,Sedan,5.0,Diesel,420.0,35.0
+511,AmazeVx Mt Diesel,Honda,Sedan,5.0,Diesel,420.0,35.0
+512,AmazeV Mt Diesel,Honda,Sedan,5.0,Diesel,420.0,35.0
+513,AmazeVx Mt Petrol,Honda,Sedan,5.0,Petrol,420.0,35.0
+514,AmazeV Mt Petrol,Honda,Sedan,5.0,Petrol,420.0,35.0
+515,AmazeS Mt Petrol,Honda,Sedan,5.0,Petrol,420.0,35.0
+516,AmazeExclusive Edition Diesel,Honda,Sedan,5.0,Diesel,420.0,35.0
+517,AmazeExclusive Edition Petrol,Honda,Sedan,5.0,Petrol,420.0,35.0
+518,GypsyHard Top,Maruti Suzuki,SUV,8.0,Petrol,350.0,40.0
+519,Venue1.2 Kappa Mt E,Hyundai,SUV,5.0,Petrol,350.0,45.0
+520,Venue1.0 Turbo Gdi Mt S,Hyundai,SUV,5.0,Petrol,350.0,45.0
+521,Venue1.0 Turbo Gdi Mt Sx,Hyundai,SUV,5.0,Petrol,350.0,45.0
+522,Venue1.0 Turbo Gdi Mt Sx Dual Tone,Hyundai,SUV,5.0,Petrol,350.0,45.0
+523,Venue1.0 Turbo Gdi Mt Sx(O),Hyundai,SUV,5.0,Petrol,350.0,45.0
+524,Venue1.0 Turbo Gdi Dct S,Hyundai,SUV,5.0,Petrol,350.0,45.0
+525,Venue1.0 Turbo Gdi Dct Sx Plus,Hyundai,SUV,5.0,Petrol,350.0,45.0
+526,Venue1.2 Kappa Mt S,Hyundai,SUV,5.0,Petrol,350.0,45.0
+527,Venue1.4 Crdi Mt Sx(O),Hyundai,SUV,5.0,Diesel,350.0,45.0
+528,NexonXe,Tata,SUV,5.0,Petrol,350.0,44.0
+529,NexonXm,Tata,SUV,5.0,Petrol,350.0,44.0
+530,NexonXz,Tata,SUV,5.0,Petrol,350.0,44.0
+531,NexonXz Plus,Tata,SUV,5.0,Petrol,350.0,44.0
+532,NexonXz Plus Dual Tone,Tata,SUV,5.0,Petrol,350.0,44.0
+533,NexonXz Plus (O),Tata,SUV,5.0,Petrol,350.0,44.0
+534,NexonXz Plus (O) Dual Tone,Tata,SUV,5.0,Petrol,350.0,44.0
+535,NexonXma,Tata,SUV,5.0,Petrol,350.0,44.0
+536,NexonXza Plus,Tata,SUV,5.0,Petrol,350.0,44.0
+537,NexonXza Plus Dual Tone,Tata,SUV,5.0,Petrol,350.0,44.0
+538,NexonXza Plus (O),Tata,SUV,5.0,Petrol,350.0,44.0
+539,NexonXza Plus (O) Dual Tone,Tata,SUV,5.0,Petrol,350.0,44.0
+540,NexonXe Diesel,Tata,SUV,5.0,Diesel,350.0,44.0
+541,NexonXm Diesel,Tata,SUV,5.0,Diesel,350.0,44.0
+542,NexonXz Diesel,Tata,SUV,5.0,Diesel,350.0,44.0
+543,NexonXz Plus Diesel,Tata,SUV,5.0,Diesel,350.0,44.0
+544,NexonXz Plus Diesel Dual Tone,Tata,SUV,5.0,Diesel,350.0,44.0
+545,NexonXz Plus (O) Diesel,Tata,SUV,5.0,Diesel,350.0,44.0
+546,NexonXz Plus (O) Diesel Dual Tone,Tata,SUV,5.0,Diesel,350.0,44.0
+547,NexonXma Diesel,Tata,SUV,5.0,Diesel,350.0,44.0
+548,NexonXza Plus Diesel,Tata,SUV,5.0,Diesel,350.0,44.0
+549,NexonXza Plus Diesel Dual Tone,Tata,SUV,5.0,Diesel,350.0,44.0
+550,NexonXza Plus (O) Diesel,Tata,SUV,5.0,Diesel,350.0,44.0
+551,NexonXza Plus (O) Diesel Dual Tone,Tata,SUV,5.0,Diesel,350.0,44.0
+552,LineaActive Fire,Fiat,Sedan,5.0,Petrol,500.0,45.0
+553,LineaActive Multijet,Fiat,Sedan,5.0,Diesel,500.0,45.0
+554,LineaDynamic Multijet,Fiat,Sedan,5.0,Diesel,500.0,45.0
+555,LineaEmotion Multijet,Fiat,Sedan,5.0,Diesel,500.0,45.0
+556,LineaT-Jet Emotion,Fiat,Sedan,5.0,Petrol,500.0,45.0
+557,ErtigaLxi,Maruti Suzuki,MPV,7.0,Petrol,209.0,45.0
+558,ErtigaZxi,Maruti Suzuki,MPV,7.0,Petrol,803.0,45.0
+559,ErtigaVxi At,Maruti Suzuki,MUV,7.0,Petrol,803.0,45.0
+560,ErtigaZxi Plus,Maruti Suzuki,MUV,7.0,Petrol,803.0,45.0
+561,ErtigaVxi,Maruti Suzuki,MUV,7.0,Petrol,803.0,45.0
+562,ErtigaZxi At,Maruti Suzuki,MPV,7.0,Petrol,803.0,45.0
+563,Ertiga1.5L Vdi,Maruti Suzuki,MPV,7.0,Diesel,803.0,45.0
+564,Ertiga1.5L Zdi,Maruti Suzuki,MPV,7.0,Diesel,803.0,45.0
+565,Ertiga1.5L Zdi Plus,Maruti Suzuki,MPV,7.0,Diesel,803.0,45.0
+566,ErtigaVxi Cng (Cng +,Maruti Suzuki,MUV,7.0,CNG + Petrol,803.0,45.0
+567,Baleno RsRs 1.0,Maruti Suzuki,Hatchback,5.0,Petrol,339.0,37.0
+568,Wr-VVx Diesel,Honda,SUV,5.0,Diesel,363.0,40.0
+569,Wr-VVx Petrol,Honda,SUV,5.0,Petrol,363.0,40.0
+570,Wr-VS Diesel,Honda,SUV,5.0,Diesel,363.0,40.0
+571,Wr-VS Petrol,Honda,SUV,5.0,Petrol,363.0,40.0
+572,Wr-VEdge Plus Edition Diesel,Honda,SUV,5.0,Diesel,363.0,40.0
+573,Wr-VEdge Plus Edition Petrol,Honda,SUV,5.0,Petrol,363.0,40.0
+574,Wr-VExclusive Edition Diesel,Honda,SUV,5.0,Diesel,363.0,40.0
+575,Wr-VExclusive Edition Petrol,Honda,SUV,5.0,Petrol,363.0,40.0
+576,Wr-VV Diesel,Honda,SUV,5.0,Diesel,363.0,40.0
+577,Tuv300T4 Plus,Mahindra,SUV,7.0,Diesel,384.0,60.0
+578,Tuv300T6 Plus,Mahindra,SUV,7.0,Diesel,384.0,60.0
+579,Tuv300T8,Mahindra,SUV,7.0,Diesel,384.0,60.0
+580,Tuv300T10,Mahindra,SUV,7.0,Diesel,384.0,60.0
+581,Tuv300T10 (O),Mahindra,SUV,7.0,Diesel,384.0,60.0
+582,Tuv300T10 Dual Tone,Mahindra,SUV,7.0,Diesel,384.0,60.0
+583,Tuv300T10 (O) Dual Tone,Mahindra,SUV,7.0,Diesel,384.0,60.0
+584,S-Cross1.3L Sigma,Maruti Suzuki,Crossover,5.0,Diesel,375.0,48.0
+585,S-Cross1.3L Delta,Maruti Suzuki,Crossover,5.0,Diesel,375.0,48.0
+586,S-Cross1.3L Zeta,Maruti Suzuki,Crossover,5.0,Diesel,375.0,48.0
+587,S-Cross1.3L Alpha,Maruti Suzuki,Crossover,5.0,Diesel,375.0,48.0
+588,CapturRxe Petrol,Renault,SUV,5.0,Petrol,392.0,50.0
+589,CapturRxe Diesel,Renault,SUV,5.0,Diesel,392.0,50.0
+590,CapturPlatine Diesel Dual Tone,Renault,SUV,5.0,Diesel,392.0,50.0
+591,CapturPlatine Petrol Dual Tone,Renault,SUV,5.0,Petrol,392.0,50.0
+592,XyloD2 Bs-Iv,Mahindra,SUV,7.0,Diesel,400.0,55.0
+593,XyloD4 Bs-Iv,Mahindra,SUV,7.0,Diesel,400.0,55.0
+594,XyloH4 Bs-Iv,Mahindra,SUV,7.0,Diesel,400.0,55.0
+595,XyloH4 Abs Bs-Iv,Mahindra,SUV,7.0,Diesel,400.0,55.0
+596,XyloH8 Abs Airbags Bs-Iv,Mahindra,SUV,8.0,Diesel,400.0,55.0
+597,SeltosHte 1.5,Kia,SUV,5.0,Petrol,433.0,60.0
+598,SeltosHtk 1.5,Kia,SUV,5.0,Petrol,433.0,60.0
+599,SeltosHtk Plus 1.5,Kia,SUV,5.0,Petrol,433.0,60.0
+600,SeltosHtx 1.5,Kia,SUV,5.0,Petrol,433.0,60.0
+601,SeltosHtx Cvt 1.5,Kia,SUV,5.0,Petrol,433.0,60.0
+602,SeltosHte 1.5 Diesel,Kia,SUV,5.0,Diesel,433.0,60.0
+603,SeltosHtk 1.5 Diesel,Kia,SUV,5.0,Diesel,433.0,60.0
+604,SeltosHtk Plus 1.5 Diesel,Kia,SUV,5.0,Diesel,433.0,60.0
+605,SeltosHtk Plus At 1.5 Diesel,Kia,SUV,5.0,Diesel,433.0,60.0
+606,SeltosHtx Plus 1.5 Diesel,Kia,SUV,5.0,Diesel,433.0,60.0
+607,SeltosHtx Plus At 1.5 Diesel,Kia,SUV,5.0,Diesel,433.0,60.0
+608,SeltosGtk 1.4,Kia,SUV,5.0,Petrol,433.0,50.0
+609,SeltosGtx 1.4,Kia,SUV,5.0,Petrol,433.0,50.0
+610,SeltosGtx At 1.4,Kia,SUV,5.0,Petrol,433.0,50.0
+611,SeltosGtx Plus 1.4,Kia,SUV,5.0,Petrol,433.0,50.0
+612,SeltosHtx 1.5 Diesel,Kia,SUV,5.0,Diesel,433.0,60.0
+613,TerranoXe D 85Ps,Nissan,SUV,5.0,Diesel,475.0,50.0
+614,TerranoXv D Premium 110 Ps Amt,Nissan,SUV,5.0,Diesel,475.0,50.0
+615,TerranoXl (P),Nissan,SUV,5.0,Petrol,475.0,50.0
+616,TerranoXl D(O),Nissan,SUV,5.0,Diesel,475.0,50.0
+617,TerranoXv D Premium 110 Ps,Nissan,SUV,5.0,Diesel,475.0,50.0
+618,TerranoSport Edition,Nissan,SUV,5.0,Diesel,475.0,50.0
+619,Safari Storme2.2 Lx 4X2,Tata,SUV,7.0,Diesel,981.0,63.0
+620,Safari Storme2.2 Ex 4X2,Tata,SUV,7.0,Diesel,981.0,63.0
+621,Safari Storme2.2 Vx 4X2 Varicor 400,Tata,SUV,7.0,Diesel,981.0,63.0
+622,Safari Storme2.2 Vx 4X4 Varicor 400,Tata,SUV,7.0,Diesel,981.0,63.0
+623,Passat2.0 Tdi Comfortline,Volkswagen,Sedan,5.0,Diesel,586.0,55.0
+624,Passat2.0 Tdi Highline,Volkswagen,Sedan,5.0,Diesel,586.0,66.0
+625,Passat2.0 Tdi Comfortline Connect,Volkswagen,Sedan,5.0,Diesel,586.0,55.0
+626,Passat2.0 Tdi Highline Connect,Volkswagen,Sedan,5.0,Diesel,586.0,66.0
+627,TiguanComfortline 2.0L Tdi Amt,Volkswagen,SUV,5.0,Diesel,615.0,71.0
+628,Superb SportlineSportline 1.8L Tsi At,Skoda,Sedan,5.0,Petrol,625.0,66.0
+629,Superb SportlineSportline 2.0L Tdi At,Skoda,Sedan,5.0,Diesel,625.0,66.0
+630,KodiaqStyle 2.0 Tdi 4X4 At,Skoda,SUV,5.0,Diesel,625.0,66.0
+631,KodiaqLaurin And Klement,Skoda,SUV,5.0,Diesel,625.0,66.0
+632,KodiaqCorporate Edition,Skoda,SUV,5.0,Diesel,625.0,66.0
+633,Q330 Tdi Premium Fwd,Audi,SUV,5.0,Diesel,460.0,64.0
+634,Q335 Tdi Quattro Premium Plus,Audi,SUV,5.0,Diesel,460.0,64.0
+635,Q335 Tdi Quattro Technology,Audi,SUV,5.0,Diesel,460.0,64.0
+636,Q330 Tfsi Premium,Audi,SUV,5.0,Petrol,460.0,64.0
+637,ConvertibleCooper S,Mini,Convertible,4.0,Petrol,215.0,44.0
+638,John Cooper WorksHatch,Mini,"Sports, Hatchback",2.0,Petrol,455.0,44.0
+639,Xf2.0 Prestige,Jaguar,Sedan,5.0,Petrol,505.0,74.0
+640,Xf2.0 Portfolio,Jaguar,Sedan,5.0,Petrol,520.0,82.0
+641,Xf2.0 Portfolio Diesel,Jaguar,Sedan,5.0,Diesel,520.0,83.0
+642,Xf2.0 Prestige Diesel,Jaguar,Sedan,5.0,Diesel,505.0,66.0
+643,Xf2.0 Pure Diesel,Jaguar,Sedan,5.0,Diesel,505.0,66.0
+644,A6Premium Plus 45 Tfsi,Audi,Sedan,5.0,Petrol,560.0,73.0
+645,A6Technology 45 Tfsi,Audi,Sedan,5.0,Petrol,560.0,73.0
+646,Xc60Inscription D5,Volvo,SUV,5.0,Diesel,495.0,70.0
+647,Z4 RoadsterSdrive 20I,Bmw,"Sports, Convertible",2.0,Petrol,281.0,52.0
+648,Z4 RoadsterM 40I,Bmw,"Sports, Convertible",2.0,Petrol,281.0,52.0
+649,Q745 Tdi Premium Plus,Audi,SUV,7.0,Diesel,295.0,75.0
+650,Q745 Tdi Technology Pack,Audi,SUV,7.0,Diesel,295.0,75.0
+651,Q740 Tfsi Quattro Premium Plus,Audi,SUV,7.0,Petrol,295.0,75.0
+652,Q740 Tfsi Quattro Technology Pack,Audi,SUV,7.0,Petrol,295.0,75.0
+653,Q745 Tdi Black Styling,Audi,SUV,7.0,Diesel,295.0,75.0
+654,Q740 Tfsi Quattro Black Styling,Audi,SUV,7.0,Petrol,295.0,75.0
+655,Rs5Coupe,Audi,Coupe,4.0,Petrol,465.0,58.0
+656,Q855 Tfsi Quattro Tiptronic,Audi,SUV,7.0,Petrol,605.0,85.0
+657,LevanteDiesel,Maserati,SUV,4.0,Diesel,580.0,80.0
+658,LevanteGransport,Maserati,SUV,4.0,Diesel,580.0,80.0
+659,LevanteGranlusson,Maserati,SUV,4.0,Diesel,580.0,80.0
+660,A8 L55 Tfsi Quattro,Audi,Sedan,4.0,Petrol,505.0,82.0
+661,QuattroporteGranlusso,Maserati,Sports,4.0,Diesel,530.0,70.0
+662,GrancabrioStandard,Maserati,Convertible,4.0,Petrol,173.0,75.0
+663,HuracanLp 610-4,Lamborghini,Coupe,2.0,Petrol,70.0,90.0
+664,HuracanLp 580-2,Lamborghini,Coupe,2.0,Petrol,70.0,90.0
+665,HuracanAvio,Lamborghini,Coupe,2.0,Petrol,70.0,90.0
+666,HuracanPerformante,Lamborghini,Coupe,2.0,Petrol,70.0,90.0
+667,HuracanLp 580-2 Spyder,Lamborghini,Coupe,2.0,Petrol,70.0,90.0
+668,HuracanLp 610-4 Spyder,Lamborghini,Coupe,2.0,Petrol,70.0,90.0
+669,HuracanEvo,Lamborghini,Coupe,2.0,Petrol,70.0,90.0
+670,HuracanEvo Rwd,Lamborghini,Coupe,2.0,Petrol,70.0,90.0
+671,488 GtbStd,Ferrari,Coupe,2.0,Petrol,230.0,78.0
+672,488 GtbSpider,Ferrari,Coupe,2.0,Petrol,230.0,78.0
+673,Gtc4 LussoV8 T,Ferrari,Coupe,4.0,Petrol,450.0,91.0
+674,Gtc4 LussoV12,Ferrari,Coupe,4.0,Petrol,450.0,91.0
+675,AventadorLp 700-4,Lamborghini,Convertible,2.0,Petrol,110.0,90.0
+676,AventadorLp700-4 Roadster,Lamborghini,Convertible,2.0,Petrol,110.0,90.0
+677,AventadorS,Lamborghini,Coupe,2.0,Petrol,110.0,90.0
+678,Omni5 Str Bs-Iv,Maruti Suzuki,MPV,5.0,Petrol,525.0,35.0
+679,OmniE 8 Str Bs-Iv,Maruti Suzuki,MPV,8.0,Petrol,525.0,36.0
+680,Punto Evo Pure1.2L Fire Dynamic,Fiat,Hatchback,5.0,Petrol,280.0,45.0
+681,Punto Evo Pure1.3,Fiat,Hatchback,5.0,Diesel,280.0,45.0
+682,Baleno1.3 Delta,Maruti Suzuki,Hatchback,5.0,Diesel,339.0,37.0
+683,Baleno1.3 Alpha,Maruti Suzuki,Hatchback,5.0,Diesel,339.0,37.0
+684,Baleno1.3 Sigma,Maruti Suzuki,Hatchback,5.0,Diesel,339.0,37.0
+685,Baleno1.3 Zeta,Maruti Suzuki,Hatchback,5.0,Diesel,339.0,37.0
+686,Baleno1.2 Alpha,Maruti Suzuki,Hatchback,5.0,Petrol,339.0,37.0
+687,Baleno1.2 Alpha Cvt,Maruti Suzuki,Hatchback,5.0,Petrol,339.0,37.0
+688,Baleno1.2 Delta,Maruti Suzuki,Hatchback,5.0,Petrol,339.0,37.0
+689,Baleno1.2 Delta Cvt,Maruti Suzuki,Hatchback,5.0,Petrol,339.0,37.0
+690,Baleno1.2 Sigma,Maruti Suzuki,Hatchback,5.0,Petrol,339.0,37.0
+691,Baleno1.2 Zeta,Maruti Suzuki,Hatchback,5.0,Petrol,339.0,37.0
+692,Baleno1.2 Delta Dualjet,Maruti Suzuki,Hatchback,5.0,Petrol,339.0,37.0
+693,Baleno1.2 Zeta Dualjet,Maruti Suzuki,Hatchback,5.0,Petrol,339.0,37.0
+694,Baleno1.2 Zeta Cvt,Maruti Suzuki,Hatchback,5.0,Petrol,339.0,37.0
+695,Grand I101.2 Kappa Vtvt Magna,Hyundai,Hatchback,5.0,Petrol,256.0,43.0
+696,Grand I101.2 Kappa Vtvt Sportz,Hyundai,Hatchback,5.0,Petrol,256.0,43.0
+697,Grand I101.2 Kappa Vtvt Magna At,Hyundai,Hatchback,5.0,Petrol,256.0,43.0
+698,Grand I101.2 Kappa Vtvt Sportz At,Hyundai,Hatchback,5.0,Petrol,256.0,43.0
+699,Grand I101.2 Kappa Vtvt Sportz Dual Tone,Hyundai,Hatchback,5.0,Petrol,256.0,43.0
+700,Grand I101.2 Kappa Vtvt Magna Cng,Hyundai,Hatchback,5.0,CNG,256.0,43.0
+701,Linea Classic1.3 Multijet,Fiat,Sedan,5.0,Diesel,500.0,45.0
+702,Linea Classic1.4,Fiat,Sedan,5.0,Petrol,500.0,45.0
+703,SunnyXe Petrol,Nissan,Sedan,5.0,Petrol,490.0,41.0
+704,SunnyXl Petrol,Nissan,Sedan,5.0,Petrol,490.0,41.0
+705,SunnyXl Diesel,Nissan,Sedan,5.0,Diesel,490.0,41.0
+706,SunnyXv Diesel,Nissan,Sedan,5.0,Diesel,490.0,41.0
+707,SunnyXe Diesel,Nissan,Sedan,5.0,Diesel,490.0,41.0
+708,SunnyXv Cvt,Nissan,Sedan,5.0,Petrol,490.0,41.0
+709,SunnySpecial Edition Diesel,Nissan,Sedan,5.0,Diesel,490.0,41.0
+710,BoleroZlx,Mahindra,SUV,7.0,Diesel,1702.0,60.0
+711,Ciaz1.3L Alpha Smart Hybrid,Maruti Suzuki,Sedan,5.0,Diesel,510.0,43.0
+712,Ciaz1.3L Sigma Smart Hybrid,Maruti Suzuki,Sedan,5.0,Diesel,510.0,43.0
+713,Ciaz1.3L Delta Smart Hybrid,Maruti Suzuki,Sedan,5.0,Diesel,510.0,43.0
+714,Ciaz1.3L Zeta Smart Hybrid,Maruti Suzuki,Sedan,5.0,Diesel,510.0,43.0
+715,Ciaz1.5L Sigma Smart Hybrid,Maruti Suzuki,Sedan,5.0,Petrol,510.0,43.0
+716,Ciaz1.5L Delta Smart Hybrid,Maruti Suzuki,Sedan,5.0,Petrol,510.0,43.0
+717,Ciaz1.5L Zeta Smart Hybrid,Maruti Suzuki,Sedan,5.0,Petrol,510.0,43.0
+718,Ciaz1.5L Alpha Smart Hybrid,Maruti Suzuki,Sedan,5.0,Petrol,510.0,43.0
+719,Ciaz1.5L Delta At Smart Hybrid,Maruti Suzuki,Sedan,5.0,Petrol,510.0,43.0
+720,Ciaz1.5L Zeta At Smart Hybrid,Maruti Suzuki,Sedan,5.0,Petrol,510.0,43.0
+721,Ciaz1.5L Alpha At Smart Hybrid,Maruti Suzuki,Sedan,5.0,Petrol,510.0,43.0
+722,Ciaz1.5L Alpha,Maruti Suzuki,Sedan,5.0,Diesel,510.0,43.0
+723,Ciaz1.5L Delta,Maruti Suzuki,Sedan,5.0,Diesel,510.0,43.0
+724,Ciaz1.5L Zeta,Maruti Suzuki,Sedan,5.0,Diesel,510.0,43.0
+725,Rapid1.6 Mpi Ambition,Skoda,Sedan,5.0,Petrol,460.0,55.0
+726,Rapid1.5 Tdi Cr Active,Skoda,Sedan,5.0,Diesel,460.0,55.0
+727,Rapid1.6 Mpi Active,Skoda,Sedan,5.0,Petrol,460.0,55.0
+728,Rapid1.5 Tdi Cr Ambition,Skoda,Sedan,5.0,Diesel,460.0,55.0
+729,Rapid1.5 Tdi Cr Ambition At,Skoda,Sedan,5.0,Diesel,460.0,55.0
+730,Rapid1.6 Mpi Style At,Skoda,Sedan,5.0,Petrol,460.0,55.0
+731,Rapid1.5 Tdi Cr Style At,Skoda,Sedan,5.0,Diesel,460.0,55.0
+732,Rapid1.5 Tdi Cr Style,Skoda,Sedan,5.0,Diesel,460.0,55.0
+733,Rapid1.6 Mpi Style,Skoda,Sedan,5.0,Petrol,460.0,55.0
+734,Rapid1.6 Mpi Ambition At,Skoda,Sedan,5.0,Petrol,460.0,55.0
+735,RapidOnyx Mt Petrol,Skoda,Sedan,5.0,Petrol,460.0,55.0
+736,RapidOnyx At Petrol,Skoda,Sedan,5.0,Petrol,460.0,55.0
+737,RapidOnyx Mt Diesel,Skoda,Sedan,5.0,Diesel,460.0,55.0
+738,RapidOnyx At Diesel,Skoda,Sedan,5.0,Diesel,460.0,55.0
+739,Creta1.4 Crdi E Plus,Hyundai,SUV,5.0,Diesel,475.0,55.0
+740,Creta1.6 Vtvt E Plus,Hyundai,SUV,5.0,Petrol,475.0,55.0
+741,Creta1.6 Vtvt Sx,Hyundai,SUV,5.0,Petrol,475.0,55.0
+742,Creta1.6 Vtvt Sx (O),Hyundai,SUV,5.0,Petrol,475.0,55.0
+743,Creta1.6 Vtvt Sx At,Hyundai,SUV,5.0,Petrol,475.0,55.0
+744,Creta1.6 Vtvt Sx Dual Tone,Hyundai,SUV,5.0,Petrol,475.0,55.0
+745,Creta1.4 Crdi S,Hyundai,SUV,5.0,Diesel,475.0,55.0
+746,Creta1.6 Crdi Sx,Hyundai,SUV,5.0,Diesel,475.0,55.0
+747,Creta1.6 Crdi Sx (O),Hyundai,SUV,5.0,Diesel,475.0,55.0
+748,Creta1.6 Crdi Sx At,Hyundai,SUV,5.0,Diesel,475.0,55.0
+749,Creta1.6 Crdi Sx Dual Tone,Hyundai,SUV,5.0,Diesel,475.0,55.0
+750,Creta1.6 Crdi S At,Hyundai,SUV,5.0,Diesel,475.0,55.0
+751,Creta1.6 Vtvt Sx (O) Executive,Hyundai,SUV,5.0,Petrol,475.0,55.0
+752,Creta1.6 Crdi Sx (O) Executive,Hyundai,SUV,5.0,Diesel,475.0,55.0
+753,Creta1.4 Crdi Ex,Hyundai,SUV,5.0,Diesel,475.0,55.0
+754,Creta1.6 Vtvt Ex,Hyundai,SUV,5.0,Petrol,475.0,55.0
+755,CretaSports Edition Petrol,Hyundai,SUV,5.0,Petrol,400.0,55.0
+756,CretaSports Edition Diesel,Hyundai,SUV,5.0,Diesel,400.0,55.0
+757,HarrierRevotorq Xe,Tata,SUV,5.0,Diesel,425.0,50.0
+758,HarrierRevotorq Xm,Tata,SUV,5.0,Diesel,425.0,50.0
+759,HarrierRevotorq Xt,Tata,Hatchback,5.0,Diesel,425.0,50.0
+760,HarrierRevotorq Xz,Tata,Hatchback,5.0,Diesel,425.0,50.0
+761,HarrierRevotorq Xz Dual Tone,Tata,Hatchback,5.0,Diesel,425.0,50.0
+762,HarrierRevotorq Dark Edition,Tata,Hatchback,5.0,Diesel,425.0,50.0
+763,Compass Trailhawk2.0 Trailhawk 4X4 At,Jeep,SUV,5.0,Diesel,438.0,60.0
+764,Cr-V2Wd Petrol Cvt,Honda,SUV,5.0,Petrol,522.0,57.0
+765,Cr-V2Wd Diesel At,Honda,SUV,7.0,Diesel,150.0,57.0
+766,Cr-VAwd Diesel At,Honda,SUV,7.0,Diesel,150.0,57.0
+767,Cooper 5 DoorCooper D,Mini,Hatchback,5.0,Petrol,278.0,44.0
+768,A4Premium Plus 35 Tfsi,Audi,Sedan,5.0,Petrol,480.0,54.0
+769,A4Technology 35 Tfsi,Audi,Sedan,5.0,Petrol,480.0,54.0
+770,A3 Cabriolet40 Tfsi,Audi,Convertible,4.0,Petrol,320.0,50.0
+771,Grand CherokeeLimited,Jeep,SUV,5.0,Diesel,1025.0,93.5
+772,Grand CherokeeSummit,Jeep,SUV,5.0,Diesel,1025.0,93.5
+773,Grand CherokeeSrt,Jeep,SUV,5.0,Petrol,1025.0,93.5
+774,Grand CherokeeSummit Petrol,Jeep,SUV,5.0,Petrol,1025.0,93.5
+775,7-Series730Ld Design Pure Excellence,Bmw,Sedan,4.0,Diesel,515.0,78.0
+776,7-Series730Ld Design Pure Excellence Signature,Bmw,Sedan,4.0,Diesel,515.0,78.0
+777,7-Series730Ld M Sport,Bmw,Sedan,4.0,Diesel,515.0,78.0
+778,7-Series740Li Design Pure Excellence Signature,Bmw,Sedan,4.0,Petrol,515.0,78.0
+779,7-Series745Le Xdrive,Bmw,Sedan,4.0,Hybrid,500.0,46.0
+780,7-SeriesM760Li Xdrive,Bmw,Sedan,4.0,Petrol,500.0,78.0
+781,Ls 500HLuxury,Lexus,SUV,5.0,Hybrid,430.0,82.0
+782,Ls 500HUltra Luxury,Lexus,SUV,5.0,Hybrid,430.0,82.0
+783,Ls 500HDistinct,Lexus,SUV,5.0,Hybrid,430.0,82.0
+784,Flying SpurV8,Bentley,Sedan,4.0,Petrol,475.0,90.0
+785,Flying SpurW12,Bentley,Sedan,4.0,Petrol,475.0,90.0
+786,458 SpiderV8,Ferrari,"Coupe, Convertible",2.0,Petrol,230.0,86.0
+787,Alto 800 TourH1,Maruti Suzuki,Hatchback,5.0,Petrol,177.0,35.0
+788,Alto 800 TourH1 (O),Maruti Suzuki,Hatchback,5.0,Petrol,177.0,35.0
+789,Grand I10 NiosMagna 1.2 Crdi,Hyundai,Hatchback,5.0,Diesel,256.0,37.0
+790,Grand I10 NiosEra 1.2 Vtvt,Hyundai,Hatchback,5.0,Petrol,256.0,37.0
+791,Grand I10 NiosMagna 1.2 Vtvt,Hyundai,Hatchback,5.0,Petrol,256.0,37.0
+792,Grand I10 NiosMagna Amt 1.2 Vtvt,Hyundai,Hatchback,5.0,Petrol,256.0,37.0
+793,Grand I10 NiosSportz 1.2 Vtvt,Hyundai,Hatchback,5.0,Petrol,256.0,37.0
+794,Grand I10 NiosSportz Amt 1.2 Vtvt,Hyundai,Hatchback,5.0,Petrol,256.0,37.0
+795,Grand I10 NiosSportz Dual Tone 1.2 Vtvt,Hyundai,Hatchback,5.0,Petrol,256.0,37.0
+796,Grand I10 NiosAsta 1.2 Vtvt,Hyundai,Hatchback,5.0,Petrol,256.0,37.0
+797,Grand I10 NiosSportz Amt 1.2 Crdi,Hyundai,Hatchback,5.0,Diesel,256.0,37.0
+798,Grand I10 NiosAsta 1.2 Crdi,Hyundai,Hatchback,5.0,Diesel,256.0,37.0
+799,XcentS 1.2,Hyundai,Sedan,5.0,Petrol,407.0,43.0
+800,XcentS At 1.2,Hyundai,Sedan,5.0,Petrol,407.0,43.0
+801,XcentSx 1.2,Hyundai,Sedan,5.0,Petrol,407.0,43.0
+802,XcentSx 1.2 (O),Hyundai,Sedan,5.0,Petrol,407.0,43.0
+803,XcentS 1.2 Crdi,Hyundai,Sedan,5.0,Diesel,407.0,43.0
+804,MicraXl (O) Cvt,Nissan,Hatchback,5.0,Petrol,251.0,41.0
+805,MicraXv Cvt,Nissan,Hatchback,5.0,Petrol,251.0,41.0
+806,MicraXld (O),Nissan,Hatchback,5.0,Diesel,251.0,41.0
+807,MicraXvd,Nissan,Hatchback,5.0,Diesel,251.0,41.0
+808,NuvosportN4,Mahindra,SUV,7.0,Diesel,412.0,60.0
+809,NuvosportN6,Mahindra,SUV,7.0,Diesel,412.0,60.0
+810,NuvosportN8,Mahindra,SUV,7.0,Diesel,412.0,60.0
+811,NuvosportN6 Amt,Mahindra,SUV,7.0,Diesel,412.0,60.0
+812,NuvosportN8 Amt,Mahindra,SUV,7.0,Diesel,412.0,60.0
+813,KicksXl Petrol,Nissan,SUV,5.0,Petrol,400.0,50.0
+814,KicksXv Petrol,Nissan,SUV,5.0,Petrol,400.0,50.0
+815,KicksXl Diesel,Nissan,SUV,5.0,Diesel,400.0,50.0
+816,KicksXv Diesel,Nissan,SUV,5.0,Diesel,400.0,50.0
+817,KicksXv Premium,Nissan,SUV,5.0,Diesel,400.0,50.0
+818,KicksXv Premium (O),Nissan,SUV,5.0,Diesel,400.0,50.0
+819,KicksXv Premium (O) Dual Tone,Nissan,SUV,5.0,Diesel,400.0,50.0
+820,KicksXe Diesel,Nissan,SUV,5.0,Diesel,400.0,50.0
+821,A335 Tdi Premium Plus,Audi,Sedan,5.0,Diesel,425.0,50.0
+822,A335 Tdi Technology,Audi,Sedan,5.0,Diesel,425.0,50.0
+823,A335 Tfsi Premium Plus,Audi,Sedan,5.0,Petrol,425.0,50.0
+824,A335 Tfsi Technology,Audi,Sedan,5.0,Petrol,425.0,50.0
+825,Xc40T4 R-Design,Volvo,SUV,5.0,Petrol,432.0,54.0
+826,X3Xdrive 20D Luxury Line,Bmw,SUV,5.0,Diesel,550.0,67.0
+827,X3Xdrive 30I Luxury Line,Bmw,SUV,5.0,Petrol,550.0,67.0
+828,X3Xdrive20D Xline,Bmw,SUV,5.0,Diesel,550.0,67.0
+829,M2 CompetitionCoupe,Bmw,Coupe,4.0,Petrol,460.0,52.0
+830,Gtr3.8 V6,Nissan,Coupe,4.0,Petrol,249.0,74.0
+831,RapideLuxe,Aston Martin,Sedan,4.0,Petrol,300.0,90.5
+832,WagonVxi,Maruti Suzuki R,Hatchback,5.0,Petrol,341.0,32.0
+833,WagonVxi Ags,Maruti Suzuki R,Hatchback,5.0,Petrol,341.0,32.0
+834,Wagon1.2L Zxi,Maruti Suzuki R,Hatchback,5.0,Petrol,341.0,32.0
+835,WagonLxi,Maruti Suzuki R,Hatchback,5.0,Petrol,341.0,32.0
+836,Wagon1.2L Vxi,Maruti Suzuki R,Hatchback,5.0,Petrol,341.0,32.0
+837,Wagon1.2L Vxi Ags,Maruti Suzuki R,Hatchback,5.0,Petrol,341.0,32.0
+838,Wagon1.2L Zxi Ags,Maruti Suzuki R,Hatchback,5.0,Petrol,341.0,32.0
+839,WagonLxi (O),Maruti Suzuki R,Hatchback,5.0,Petrol,341.0,32.0
+840,WagonVxi (O),Maruti Suzuki R,Hatchback,5.0,Petrol,341.0,32.0
+841,Wagon1.2L Vxi (O),Maruti Suzuki R,Hatchback,5.0,Petrol,341.0,32.0
+842,Wagon1.2L Vxi Ags (O),Maruti Suzuki R,Hatchback,5.0,Petrol,341.0,32.0
+843,WagonVxi Ags (O),Maruti Suzuki R,Hatchback,5.0,Petrol,341.0,32.0
+844,WagonLxi Cng,Maruti Suzuki R,Hatchback,5.0,CNG,341.0,32.0
+845,WagonLxi (O) Cng,Maruti Suzuki R,Hatchback,5.0,CNG,341.0,32.0
+846,Tiago Nrg1.2L Revotron,Tata,Crossover,5.0,Petrol,242.0,35.0
+847,Tiago Nrg1.05L Revotorq,Tata,Crossover,5.0,Diesel,242.0,35.0
+848,Tiago Nrg1.2L Revotron Amt,Tata,Crossover,5.0,Petrol,242.0,35.0
+849,YarisJ,Toyota,Sedan,5.0,Petrol,476.0,42.0
+850,YarisG,Toyota,Sedan,5.0,Petrol,476.0,42.0
+851,YarisV,Toyota,Sedan,5.0,Petrol,476.0,42.0
+852,YarisVx Cvt,Toyota,Sedan,5.0,Petrol,476.0,42.0
+853,YarisG Cvt,Toyota,Sedan,5.0,Petrol,476.0,42.0
+854,YarisJ Cvt,Toyota,Sedan,5.0,Petrol,476.0,42.0
+855,YarisV Cvt,Toyota,Sedan,5.0,Petrol,476.0,42.0
+856,YarisVx,Toyota,Sedan,5.0,Petrol,476.0,42.0
+857,YarisV (O),Toyota,Sedan,5.0,Petrol,476.0,42.0
+858,YarisJ (O),Toyota,Sedan,5.0,Petrol,476.0,42.0
+859,YarisG (O),Toyota,Sedan,5.0,Petrol,476.0,42.0
+860,YarisJ (O) Cvt,Toyota,Sedan,5.0,Petrol,476.0,42.0
+861,YarisG (O) Cvt,Toyota,Sedan,5.0,Petrol,476.0,42.0
+862,YarisV (O) Cvt,Toyota,Sedan,5.0,Petrol,476.0,42.0
+863,OctaviaAmbition 1.4 Tsi,Skoda,Sedan,5.0,Petrol,590.0,50.0
+864,OctaviaAmbition 2.0 Tdi Cr,Skoda,Sedan,5.0,Diesel,590.0,50.0
+865,OctaviaStyle 1.4 Tsi,Skoda,Sedan,5.0,Petrol,590.0,50.0
+866,OctaviaStyle 1.8 Tsi At,Skoda,Sedan,5.0,Petrol,590.0,50.0
+867,OctaviaStyle 2.0 Tdi Cr,Skoda,Sedan,5.0,Diesel,590.0,50.0
+868,OctaviaStyle 2.0 Tdi Cr At,Skoda,Sedan,5.0,Diesel,590.0,50.0
+869,OctaviaL & K 1.8 Tsi At,Skoda,Sedan,5.0,Petrol,590.0,50.0
+870,OctaviaL & K 2.0 Tdi Cr At,Skoda,Sedan,5.0,Diesel,590.0,50.0
+871,OctaviaCorporate Edition 1.4 Tsi,Skoda,Sedan,5.0,Petrol,590.0,50.0
+872,OctaviaCorporate Edition 2.0 Tdi,Skoda,Sedan,5.0,Diesel,590.0,50.0
+873,OctaviaOnyx 1.8 Tsi Dsg,Skoda,Sedan,5.0,Petrol,590.0,50.0
+874,OctaviaOnyx 2.0 Tdi Dsg,Skoda,Sedan,5.0,Diesel,590.0,50.0
+875,X4Xdrive20D M Sport X,Bmw,SUV,5.0,Diesel,1400.0,60.0
+876,X4Xdrive30D M Sport X,Bmw,SUV,5.0,Diesel,1400.0,68.0
+877,X4Xdrive30I M Sport X,Bmw,SUV,5.0,Petrol,1400.0,68.0
+878,Punto EvoDynamic 1.2,Fiat,Hatchback,5.0,Petrol,280.0,45.0
+879,Punto EvoActive Multijet 1.3,Fiat,Hatchback,5.0,Diesel,280.0,45.0
+880,Punto EvoDynamic Multijet 1.3,Fiat,Hatchback,5.0,Diesel,280.0,45.0
+881,Punto EvoEmotion Multijet 1.3,Fiat,Hatchback,5.0,Diesel,280.0,45.0
+882,CitySv Mt Petrol,Honda,Sedan,5.0,Petrol,510.0,40.0
+883,CityV Mt Petrol,Honda,Sedan,5.0,Petrol,510.0,40.0
+884,CityVx Mt Petrol,Honda,Sedan,5.0,Petrol,510.0,40.0
+885,CityVx Cvt Petrol,Honda,Sedan,5.0,Petrol,510.0,40.0
+886,CitySv Mt Diesel,Honda,Sedan,5.0,Diesel,510.0,40.0
+887,CityV Mt Diesel,Honda,Sedan,5.0,Diesel,510.0,40.0
+888,CityVx Mt Diesel,Honda,Sedan,5.0,Diesel,510.0,40.0
+889,CityZx Mt Diesel,Honda,Sedan,5.0,Diesel,510.0,40.0
+890,CityZx Cvt Petrol,Honda,Sedan,5.0,Petrol,510.0,40.0
+891,CityV Cvt Petrol,Honda,Sedan,5.0,Petrol,510.0,40.0
+892,XeS Petrol,Jaguar,Sedan,5.0,Petrol,455.0,61.0
+893,XeS Diesel,Jaguar,Sedan,4.0,Diesel,455.0,56.0
+894,XeSe Diesel,Jaguar,Sedan,4.0,Diesel,455.0,56.0
+895,XeSe Petrol,Jaguar,Sedan,5.0,Petrol,455.0,61.0
+896,GranturismoSport,Maserati,Coupe,4.0,Petrol,261.0,86.0
+897,Verito1.5 D2,Mahindra,Sedan,5.0,Diesel,510.0,50.0
+898,Verito1.5 D4 Bs-Iv,Mahindra,Sedan,5.0,Diesel,330.0,50.0
+899,Verito1.5 D6 Bs-Iv,Mahindra,Sedan,5.0,Diesel,330.0,50.0
+900,GT-R,Nissan,Sports Car,2,Petrol,315.0,74.0
+901,Scorpio-N,Mahindra,SUV,6,Petrol,460.0,57.0
+902,Virtus,Volkswagen,Sedan,5,Petrol,521.0,45.0
+903,Amaze,Honda,Compact Sedan,5,Petrol,420.0,35.0
+904,Tiguan,Volkswagen,SUV,5,Petrol,616.0,60.0
+905,Scorpio Classic,Mahindra,SUV,7,Diesel,460.0,60.0
+906,WR-V,Honda,Compact SUV,5,Petrol,363.0,40.0
+907,Amaze,Honda,Compact Sedan,5,Diesel,420.0,35.0
+908,WR-V,Honda,Compact SUV,5,Diesel,363.0,40.0
+909,Scorpio-N,Mahindra,SUV,6,Diesel,460.0,57.0
+910,Jazz,Honda,Hatchback,5,Petrol,354.0,40.0
+911,Kicks,Nissan,SUV,5,Petrol,400.0,50.0
+912,Scorpio-N,Mahindra,SUV,7,Diesel,460.0,57.0
+913,C5 Aircross,Citroen,SUV,5,Diesel,580.0,52.5
+914,City 5th Gen,Honda,Sedan,5,Petrol,506.0,40.0
+915,Scorpio-N,Mahindra,SUV,7,Petrol,460.0,57.0
+916,Grand i10 Nios,Hyundai,Hatchback,5,Petrol,260.0,37.0
+917,Aura,Hyundai,Compact Sedan,5,Petrol,402.0,37.0
+918,Fortuner,Toyota,SUV,7,Diesel,296.0,80.0
+919,Sonet,Kia,Compact SUV,5,Petrol,392.0,45.0
+920,Safari,Tata,SUV,7,Diesel,447.0,50.0
+921,Sonet,Kia,Compact SUV,5,Diesel,392.0,45.0
+922,Seltos,Kia,SUV,5,Petrol,433.0,50.0
+923,XUV 700,Mahindra,SUV,7,Petrol,240.0,60.0
+924,Scorpio Classic,Mahindra,SUV,9,Diesel,460.0,60.0
+925,XUV 700,Mahindra,SUV,7,Diesel,240.0,60.0
+926,XUV 700,Mahindra,SUV,5,Diesel,240.0,60.0
+927,Thar LX,Mahindra,SUV,4,Diesel,600.0,57.0
+928,Thar AX OPT,Mahindra,SUV,4,Diesel,600.0,57.0
+929,Marazzo,Mahindra,MPV,7,Diesel,190.0,45.0
+930,XUV 700,Mahindra,SUV,5,Petrol,240.0,60.0
+931,City 5th Gen,Honda,Sedan,5,Diesel,506.0,40.0
+932,XUV 300,Mahindra,Compact SUV,5,Diesel,257.0,42.0
+933,Thar AX OPT,Mahindra,SUV,4,Petrol,600.0,57.0
+934,Thar LX,Mahindra,SUV,4,Petrol,600.0,57.0
+935,Urban Cruiser,Toyota,Compact SUV,5,Petrol,328.0,48.0
+936,Fortuner Legender,Toyota,SUV,7,Diesel,296.0,80.0
+937,City 4th Gen,Honda,Sedan,5,Petrol,510.0,40.0
+938,City e-HEV,Honda,Sedan,5,Petrol Hybrid,506.0,40.0
+939,Seltos,Kia,SUV,5,Diesel,433.0,50.0
+940,Creta,Hyundai,SUV,5,Diesel,433.0,50.0
+941,i20,Hyundai,Hatchback,5,Petrol,326.0,37.0
+942,Alcazar,Hyundai,SUV,6,Diesel,180.0,50.0
+943,Grand i10 Nios,Hyundai,Hatchback,5,Petrol + CNG,260.0,37.0
+944,Glanza,Toyota,Hatchback,5,Petrol,318.0,37.0
+945,Fortuner,Toyota,SUV,7,Petrol,296.0,80.0
+946,Verna,Hyundai,Sedan,5,Petrol,480.0,45.0
+947,i20 N-Line,Hyundai,Hatchback,5,Petrol,326.0,37.0
+948,Venue,Hyundai,Compact SUV,5,Petrol,350.0,45.0
+949,Creta,Hyundai,SUV,5,Petrol,433.0,50.0
+950,Venue N-Line,Hyundai,Compact SUV,5,Petrol,350.0,45.0
+951,Venue,Hyundai,Compact SUV,5,Diesel,350.0,45.0
+952,Alcazar,Hyundai,SUV,6,Petrol,180.0,50.0
+953,Aura,Hyundai,Compact Sedan,5,Petrol + CNG,402.0,37.0
+954,Tucson,Hyundai,SUV,5,Petrol,540.0,54.0
+955,i20,Hyundai,Hatchback,5,Diesel,326.0,37.0
+956,Tucson,Hyundai,SUV,5,Diesel,540.0,54.0
+957,Carens,Kia,MUV,6,Diesel,216.0,45.0
+958,Safari,Tata,SUV,6,Diesel,447.0,50.0
+959,Alcazar,Hyundai,SUV,7,Petrol,180.0,50.0
+960,Verna,Hyundai,Sedan,5,Diesel,480.0,45.0
+961,Alcazar,Hyundai,SUV,7,Diesel,180.0,50.0
+962,Harrier,Tata,SUV,5,Diesel,425.0,50.0
+963,Carens,Kia,MUV,7,Diesel,216.0,45.0
+964,Carens,Kia,MUV,7,Petrol,216.0,45.0
+965,Carnival,Kia,MPV,7,Diesel,540.0,60.0
+966,Carnival,Kia,MPV,8,Diesel,540.0,60.0
+967,Carnival,Kia,MPV,9,Diesel,540.0,60.0
+968,Carens,Kia,MUV,6,Petrol,216.0,45.0
+969,Kiger,Renault,Compact SUV,5,Petrol,405.0,40.0
+970,C3,Citroen,Hatchback,5,Petrol,315.0,30.0
+971,Kwid,Renault,Hatchback,5,Petrol,279.0,28.0
+972,Triber,Renault,MUV,7,Petrol,625.0,40.0
+973,XUV 300,Mahindra,Compact SUV,5,Petrol,257.0,42.0
+974,Taigun,Volkswagen,Mid Size SUV,5,Petrol,385.0,50.0
+975,Magnite,Nissan,Compact SUV,5,Petrol,336.0,40.0
+976,Kona Electric,Hyundai,SUV,5,Electric,332.0,
+977,Nexon EV,Tata,Compact SUV,5,Electric,350.0,
+978,Tigor EV,Tata,Subcompact Sedan,5,Electric,316.0,
+979,Nexon EV Max,Tata,Compact SUV,5,Electric,350.0,
+980,MG ZS EV,SAIC,Compact SUV,5,Electric,448.0,
+981,Kona Electric,Hyundai,Compact SUV,5,Electric,332.0,
+982,I-Pace,Jaguar,Premium Midsize Sedan,5,Electric,656.0,
+983,E-Tron GT,Audi,Premium Coupe,5,Electric,405.0,
+984,BYD E6,BYD,Subcompact MPV,5,Electric,580.0,
+985,EQC,Mercedes-Benz,Compact SUV,5,Electric,500.0,
+986, iX xDrive50,BMW,Premium Fullsize SUV,5,Electric,500.0,
+987,Taycan,Porsche,Premium Sports Sedan,4,Electric,366.0,
+988, E-Tron,Audi,Compact SUV,5,Electric,660.0,
