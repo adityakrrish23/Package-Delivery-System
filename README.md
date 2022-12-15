@@ -1,11 +1,9 @@
 # Package-Delivery-System
 
-**About the Project:
-**
+## About the Project:
 Our project aims to enable drivers to earn extra money by utilizing the empty boot space they have in their vehicles to deliver parcels from customers. This involves a heavy spatial element where we as a host contain all the customer details and truck details, compute the most feasible customer for each trucker, and the revenue he can gain using an altered Travelling Salesman algorithm which runs on top of our original revenue calculation and genetic algorithm.
 
-**Dependencies required to run the project:
-**
+Dependencies required to run the project:
 1. Install the local version of MongoDB Compass to populate the database with the CSV containing the car boot space data and truck freight size.
 2. Add CSV files to the database titled car_data and container for the car and truck respectively after running the Data preprocessing Jupyter Notebook implemented using Python 3.
 3. Install Python 3 and Node JS.
@@ -14,8 +12,7 @@ Our project aims to enable drivers to earn extra money by utilizing the empty bo
 6. Get API Key for Google Maps API using the link:
 https://console.cloud.google.com/projectselector2/google/maps-apis/credentials?pli=1
 
-**Requirements to run UI:
-**
+Requirements to run UI:
 1. Install the required python packages as mentioned in “app.py”
 2. To display the User Interface, run the command “python app.py” and paste the localhost URL in a browser
 to view the front end and Google Maps.
