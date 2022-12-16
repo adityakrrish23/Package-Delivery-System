@@ -25,5 +25,3 @@ version of MongoDB Compass installed on your system to receive alerts.
 <p align="center">
   <img src="https://github.com/spoorthi-b/Package-Delivery-System/blob/main/truck-delivery.gif" />
 </p>
-
-![sample_ouput](https://github.com/spoorthi-b/Package-Delivery-System/blob/main/truck-delivery.gif)
