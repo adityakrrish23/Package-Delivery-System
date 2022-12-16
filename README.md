@@ -6,7 +6,7 @@ Our project aims to enable drivers to earn extra money by utilizing the empty bo
 ### Dependencies required to run the project:
 1. Install the local version of MongoDB Compass to populate the database with the CSV containing the car boot space data and truck freight size.
 2. Add CSV files to the database titled car_data and container for the car and truck respectively after running the Data preprocessing Jupyter Notebook implemented using Python 3.
-3. Install Python 3 and Node JS.
+3. Install Python 3, geopy and Node JS.
 4. Install Node JS dependencies such as express, ts, mongodb, etc.
 5. Set Environment Variables for MongoDB bin path to start mongod server in CMD or terminal.
 6. Get API Key for Google Maps API using the link:
