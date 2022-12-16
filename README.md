@@ -21,3 +21,5 @@ to view the front end and Google Maps.
 generated in US Dollars.
 5. Ensure the connection is established between the front-end and the back-end connection with the local
 version of MongoDB Compass installed on your system to receive alerts.
+
+![sample_ouput](https://github.com/spoorthi-b/Package-Delivery-System/blob/main/truck-delivery.gif)
