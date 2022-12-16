@@ -1,4 +1,4 @@
-# Package-Delivery-System
+# Novel Tracking and Routing of Deliverable Goods using Optimized Spatial Data
 
 ## About the Project:
 Our project aims to enable drivers to earn extra money by utilizing the empty boot space they have in their vehicles to deliver parcels from customers. This involves a heavy spatial element where we as a host contain all the customer details and truck details, compute the most feasible customer for each trucker, and the revenue he can gain using an altered Travelling Salesman algorithm which runs on top of our original revenue calculation and genetic algorithm.
