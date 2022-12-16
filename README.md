@@ -23,7 +23,7 @@ generated in US Dollars.
 version of MongoDB Compass installed on your system to receive alerts.
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/spoorthi-b/Package-Delivery-System/blob/main/truck-delivery.gif)" />
+  <img src="https://github.com/spoorthi-b/Package-Delivery-System/blob/main/truck-delivery.gif" />
 </p>
 
 ![sample_ouput](https://github.com/spoorthi-b/Package-Delivery-System/blob/main/truck-delivery.gif)
